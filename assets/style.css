@@ -2594,10 +2594,6 @@ body.custom-background.ignore-custom-background, body.custom-background.single, 
 .entry-title a:hover {
   border-color: rgba(0, 0, 0, 0.25);
 }
-.entry-format .dashicons {
-  font-size: inherit;
-  vertical-align: middle;
-}
 .entry-subtitle {
   /*
   * Note: this doubles the declarations of font-size,
