@@ -4,7 +4,7 @@
     <title>{{ page.title }}{% if page.title %} - {% endif %}{{ site.title }}{% if site.description %} - {% endif %}{{ site.description }}</title>
     <meta name="description" content="{{ site.description }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/fontawesome/4.6.3/css/font-awesome.min.css" integrity="sha256-AIodEDkC8V/bHBkfyxzolUMw57jeQ9CauwhVW6YJ9CA=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro%7CMontserrat%7COpen+Sans%3A400%2C600&#038;ver=4.6.1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro%7CMontserrat%7COpen+Sans%3A400%2C600">
     <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} blog feed" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
@@ -28,8 +28,6 @@
     <meta property="og:image" content="{{ page.imageurl }}">
     <meta name="twitter:image" content="{{ page.imageurl }}">
     {% endif %}
-    <!-- <script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","surreydigitalservices.zendesk.com");
-/*]]>*/</script> -->
     <meta name="theme-color" content="#026ed2">
     <meta name="msvalidate.01" content="73984882C4D579FD9A7FAE87E1898BC7">
 </head>
