@@ -1,12 +1,11 @@
 <header class="header bg">
   <div class="backdrop"></div>
 	<div class="site-nav">
-		<a class="site-search" data-action="toggle-overlay" data-overlay-id="search-overlay" href="#search-overlay"><span class="fa fa-search" aria-label="Search Overlay"></span></a>
 		<a class="hamburger" data-action="toggle-overlay" data-overlay-id="menu-overlay" href="#menu-overlay"><span aria-label="Toggle Overlay"></span></a>
 	</div>
 
     <div class="site-info">
-        <a href="/" class="site-title">Ben Cheetham</a>
+        <a href="{{ "/" | prepend: site.baseurl }}" class="site-title">Ben Cheetham</a>
         <span class="site-description">local gov digital maker</span>
 	</div>
 </header>
@@ -16,60 +15,43 @@
     <noscript>
         <div class="header">
             <div class="site-nav">
-                <a class="hamburger close" href="#"><span aria-label="Toggle Overlay"></span></a>
+                <a class="hamburger close" href="#"><span aria-label="Toggle overlay"></span></a>
             </div>
         </div>
     </noscript>
 
     <nav class="main-navigation">
         <div class="menu-primary-container">
-            <ul id="menu-primary" class="menu">
-                <li id="menu-item-75" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a href="/">Home</a></li>
-                <li id="menu-item-367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-367"><a href="/blog/author/ben/">About</a></li>
-                <li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a title="Get in touch with Ben Cheetham" href="https://ben.cheetham.me.uk/contact/">Contact</a></li>
+            <ul class="menu">
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-367"><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
             </ul>
         </div>
     </nav>
         
     <nav class="social-navigation">
         <div class="menu-social-container">
-            <ul id="menu-social" class="menu">
-                <li id="menu-item-353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353"><a href="https://twitter.com/_BforBen"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">Twitter</span></a></li>
-                <li id="menu-item-354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-354"><a href="https://plus.google.com/106837556918973875033"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">Google+</span></a></li>
-                <li id="menu-item-352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-352"><a href="https://github.com/BforBen"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">GitHub</span></a></li>
-                <li id="menu-item-369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-369"><a href="https://www.linkedin.com/profile/view?id=38596560"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">LinkedIn</span></a></li>
+            <ul class="menu">
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353"><a href="https://twitter.com/_BforBen"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">Twitter</span></a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-354"><a href="https://plus.google.com/106837556918973875033"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">Google+</span></a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-352"><a href="https://github.com/BforBen"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">GitHub</span></a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-369"><a href="https://www.linkedin.com/profile/view?id=38596560"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">LinkedIn</span></a></li>
             </ul>
         </div>
     </nav>
         
     <div class="widget-area" role="complementary">
-        <aside id="text-5" class="widget widget_text">
-            <div class="textwidget"><a href="http://localgovdigital.info" title="Find out more about LocalGov Digital" class="lgd-overlay"><img src="/assets/localgovdigital.png" alt="LocalGov Digital logo" title="LocalGov Digital"></a></div>
+        <aside class="widget">
+            <div><a href="http://localgovdigital.info" title="Find out more about LocalGov Digital" class="lgd-overlay"><img src="{{ "/assets/localgovdigital.png" | prepend: site.baseurl }}" alt="LocalGov Digital logo" title="LocalGov Digital"></a></div>
 		</aside>
-		<aside id="categories-2" class="widget widget_categories">
+		<aside class="widget">
 		    <h1 class="widget-title">Categories</h1>
 		    <ul>
-	            <li class="cat-item cat-item-9"><a href="https://ben.cheetham.me.uk/blog/category/code/">Code</a></li>
-	            <li class="cat-item cat-item-10"><a href="https://ben.cheetham.me.uk/blog/category/local-gov/" title="Read my posts about local government.">Local Gov</a></li>
-	            <li class="cat-item cat-item-13"><a href="https://ben.cheetham.me.uk/blog/category/projects/" >Projects</a></li>
-	            <li class="cat-item cat-item-14"><a href="https://ben.cheetham.me.uk/blog/category/service/" >Service</a></li>
+	            <li><a href="{{ "/blog/category/code" | prepend: site.baseurl }}">Code</a></li>
+	            <li><a href="{{ "/blog/category/local-gov" | prepend: site.baseurl }}" title="Read my posts about local government.">Local Gov</a></li>
+	            <li><a href="{{ "/blog/category/projects" | prepend: site.baseurl }}" >Projects</a></li>
+	            <li><a href="{{ "/blog/category/service" | prepend: site.baseurl }}" >Service</a></li>
 		    </ul>
         </aside>
     </div>
-</div>
-
-<div id="search-overlay" class="overlay overlay-dark overlay-search">
-    <noscript>
-        <div class="header">
-            <div class="site-nav">
-                <a class="hamburger close" href="#"><span aria-label="Toggle Overlay"></span></a>
-            </div>
-        </div>
-    </noscript>
-    <form role="search" method="get" class="search-form" action="/">
-    	<label>
-    		<span class="screen-reader-text">Search...</span>
-    		<input type="text" class="search-field" placeholder="Search..." name="s" title="Search" autocomplete="off" />
-    	</label>
-    </form>
 </div>
