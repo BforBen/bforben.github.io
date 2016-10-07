@@ -1,0 +1,44 @@
+# Site settings
+title: Ben Cheetham
+description: local gov digital maker
+  
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: # the base hostname & protocol for your site
+twitter_username: _BforBen
+github_username:  bforben
+disqus_shortname: bforben
+analytics : UA-89904-3
+
+# Build settings
+safe: true
+timezone: Europe/London
+lsi: false
+highlighter: rouge
+markdown: kramdown
+permalink: /blog/:year/:month/:title
+
+exclude:
+  - compile.sh
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - lint.go
+  - README.md
+  - tools
+  - vendor
+
+kramdown:
+  auto_ids: true,
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: true
+
+  coderay:
+    coderay_wrap: div
+    coderay_line_numbers: ''
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: style
