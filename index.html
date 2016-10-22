@@ -8,14 +8,22 @@ layout: page
     <header class="entry-header">
   	  <h2 class="entry-subtitle">
   	    {% for category in post.categories %}
-          <a href="/blog/category/{{ category | downcase | handleize }}" rel="category tag">{{ category | capitalize }}</a> 
+          <a href="{{ site.baseurl }}/blog/category/{{ category | slugify }}" rel="category tag">{{ category | capitalize }}</a> 
         {% endfor %}  
 	    </h2>
       <h1 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
       <div class="entry-meta">
         <span class="posted-on">
-          <a class="author vcard url fn n" href="https://ben.cheetham.me.uk/blog/author/ben/"><img alt="Profile Picture for Ben" src="https://secure.gravatar.com/avatar/bae457ea71d62adc8033409bb14d2ee8?s=35&amp;d=blank&amp;r=pg" srcset="https://secure.gravatar.com/avatar/bae457ea71d62adc8033409bb14d2ee8?s=70&amp;d=blank&amp;r=pg 2x" class="avatar avatar-35 photo" height="35" width="35">  <span class="name">Ben</span></a> on  
-          <a href="https://ben.cheetham.me.uk/blog/2015/04/mapping-your-systems/" rel="bookmark"><time class="entry-date published" datetime="2015-04-30T21:52:58+00:00">30 April  2015</time><time class="updated" datetime="2015-04-30T21:58:19+00:00">{{ post.date }}</time></a>
+            <a class="author vcard url fn n" href="{{ "/about" | relative_url }}">
+              <img alt="Profile Picture for Ben" src="https://secure.gravatar.com/avatar/bae457ea71d62adc8033409bb14d2ee8?s=53&amp;d=blank&amp;r=pg" srcset="https://secure.gravatar.com/avatar/bae457ea71d62adc8033409bb14d2ee8?s=70&amp;d=blank&amp;r=pg 2x" class="avatar avatar-35 photo" height="35" width="35" originals="35" src-orig="https://secure.gravatar.com/avatar/bae457ea71d62adc8033409bb14d2ee8?s=35&amp;d=blank&amp;r=pg" scale="1.5">
+              <span class="name">Ben</span>
+            </a> on 
+          <a href="{{ post.url }}" rel="bookmark">
+            <time class="entry-date published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time>
+            {% if post.modified %}
+            <time class="updated" datetime="{{ post.modified | date_to_xmlschema }}">{{ post.modified | date: "%-d %b %Y" }}</time>
+            {% endif %}
+          </a>
         </span>
       </div>
     </header>
@@ -31,7 +39,7 @@ layout: page
 <nav class="navigation posts-navigation" role="navigation">
 	<h2 class="screen-reader-text">Posts navigation</h2>
 	<div class="nav-links">
-    <div class="nav-previous"><a href="/blog/page/2/">Older posts</a></div>
+    <div class="nav-previous"><a href="{{ site.baseurl }}/blog/page/2/">Older posts</a></div>
 	</div>
 </nav>
 {% endif %}

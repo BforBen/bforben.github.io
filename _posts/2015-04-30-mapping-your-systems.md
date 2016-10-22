@@ -10,7 +10,7 @@ Maps are useful things to see how places or stuff is connected &#8211; or not. A
 
 I decided to create a Kumu map showing, at a high level, the connections between some of the systems we use within the council. The connections could be where data is passed between the systems or where the systems is accessed by users, customer service agents or back-office staff.
 
-The systems are roughly arranged in three-ish layers in a similar fashion to <a href="https://www.youtube.com/watch?v=BbbdHJS2t8I">the Gubbins of Government model</a> by <a href="https://twitter.com/markwfoden">Mark Fodden</a> which if you haven&#8217;t seen please stop and go watch it now!
+The systems are roughly arranged in three-ish layers in a similar fashion to <a href="https://www.youtube.com/watch?v=BbbdHJS2t8I">the Gubbins of Government model</a> by <a href="https://twitter.com/markwfoden">Mark Fodden</a> which if you haven't seen please stop and go watch it now!
 
 My map currently looks like this:
 
@@ -18,24 +18,26 @@ My map currently looks like this:
 
 On first impressions it possibly looks (a) scary and (b) a right mess. That perhaps in itself shows that we need to re-think how we are using IT to deliver services certainly when you consider that many of the circles in the back-office layer are actually place holders for monolithic silos that are providing duplicated functionality.
 
-To give some clarity you can hover your mouse over a connection or circle and Kumu will fade any items on the map that aren&#8217;t directly connected to the item in focus.
+To give some clarity you can hover your mouse over a connection or circle and Kumu will fade any items on the map that aren't directly connected to the item in focus.
 
 ## Maps really are versatile
 
 We're actually finding a number of potential uses for mapping our systems even at the fairly abstract level that I have.
 
-<dl>
-<dt>ICT</dt>
-<dd>You can add extra information to the objects on a Kumu map such as links (e.g. to documentation), tags and text. This can be useful to our ICT support staff when trying to diagnose problems or help other staff. It also helps them to understand that if they need to take a system down for maintenance what else might potentially experience side effects.</dd>
-<dt>Business continuity</dt>
-<dd>We can start to get an idea of what systems are key and in a business continuity process which systems should be restored as a priority to get particular services up and running again.</dd>
-<dt>Individual services</dt>
-<dd>They can start to see what part their data and systems are playing throughout the council. The <abbr title="Local Land and Property Gazetteer">LLPG</abbr> maintained by our <abbr title="Geographic Information System">GIS</abbr> team is actually a really key systems as it is the authoritative source of address information and feeds a number of that systems.</dd>
-<dt>Senior management</dt>
-<dd>A map like this is a relatively easy way to show management what is running on all the equipment we have locked up in our server rooms. It can also make it easier to show them that if we want to change something within our IT infrastructure the effect it might have in a number of other areas. It also highlights closed systems which don&#8217;t give any ability for users to self-serve or for our customer service agents to interact with it.</dd>
-<dt>Transformation</dt>
-<dd>We have also started to map a future architecture where we are breaking down silos and looking to develop lots of smaller, shared components which will can brought together to make new digital services. We can use the map to show what capabilities we want or need and how many services could use them &#8211; that can then be used to form a plan.</dd>
-</dl>
+ICT
+: You can add extra information to the objects on a Kumu map such as links (e.g. to documentation), tags and text. This can be useful to our ICT support staff when trying to diagnose problems or help other staff. It also helps them to understand that if they need to take a system down for maintenance what else might potentially experience side effects.
+
+Business continuity
+: We can start to get an idea of what systems are key and in a business continuity process which systems should be restored as a priority to get particular services up and running again.
+
+Individual services
+: They can start to see what part their data and systems are playing throughout the council. The <abbr title="Local Land and Property Gazetteer">LLPG</abbr> maintained by our <abbr title="Geographic Information System">GIS</abbr> team is actually a really key systems as it is the authoritative source of address information and feeds a number of that systems.
+
+Senior management
+: A map like this is a relatively easy way to show management what is running on all the equipment we have locked up in our server rooms. It can also make it easier to show them that if we want to change something within our IT infrastructure the effect it might have in a number of other areas. It also highlights closed systems which don't give any ability for users to self-serve or for our customer service agents to interact with it.
+
+Transformation
+: We have also started to map a future architecture where we are breaking down silos and looking to develop lots of smaller, shared components which will can brought together to make new digital services. We can use the map to show what capabilities we want or need and how many services could use them - that can then be used to form a plan.
 
 ## What does your world look like?
 
