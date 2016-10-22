@@ -311,12 +311,6 @@ q cite {
   font-style: italic;
   opacity: .75;
 }
-blockquote i,
-blockquote em,
-q i,
-q em {
-  font-style: normal;
-}
 
 address {
   margin: 0 0 1.5em;
