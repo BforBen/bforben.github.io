@@ -50,3 +50,6 @@ coderay:
   
 sass:
   style: compressed
+  
+gems:
+  - jekyll-sitemap
