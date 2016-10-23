@@ -2,6 +2,9 @@
 title: Ben Cheetham
 description: local gov digital maker
 
+baseurl: 
+url: https://ben.cheetham.me.uk
+
 twitter_username: _BforBen
 github_username:  bforben
 disqus_shortname: bforben
