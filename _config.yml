@@ -1,9 +1,7 @@
 # Site settings
 title: Ben Cheetham
 description: local gov digital maker
-  
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: # the base hostname & protocol for your site
+
 twitter_username: _BforBen
 github_username:  bforben
 disqus_shortname: bforben
