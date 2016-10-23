@@ -6,7 +6,7 @@ categories: [local gov]
 date: 2015-01-26 23:08:32 +00:00
 modified: 2015-02-04 19:32:43 +00:00
 redirect_from:
-  - /blog/2015/02/lets-sort-this-out-together/
+  - /blog/2015/01/lets-sort-this-out-together/
 ---
 I've just finished a run of three days in London. First an open data meeting at the Cabinet Office following by <a href="http://www.ukgovcamp.com/">UKGovCamp</a> on Saturday and finishing up with the <a href="http://www.localdirect.gov.uk/event/data-sharing-discovery-day-london/">Local Digital Data-Sharing Discovery Day</a> today.
 
