@@ -28,7 +28,7 @@ The responsive design was taken care of by use of what was at the time <a href="
 
 The framework allowed a mobile-friendly site to be rapidly developed. It was also an opportunity to update the site to take advantage of "modern" CSS effects such as rounded corners where previously they would have been created using static images. Mobile devices at the time also had varying degrees of support for JavaScript so things like the expanding and collapsing menu were potentially a hazard to mobiles (more on navigation later) and were removed. The result was a plain and simple home page.
 
-<img src="https://i2.wp.com/ben.cheetham.me.uk/wp-content/uploads/2014/03/guildfordbc-homepage-post.png?resize=550%2C554&#038;ssl=1" alt="Guildford Borough Council homepage" class="aligncenter size-full wp-image-159" srcset="https://i2.wp.com/ben.cheetham.me.uk/wp-content/uploads/2014/03/guildfordbc-homepage-post.png?w=550&amp;ssl=1 550w, https://i2.wp.com/ben.cheetham.me.uk/wp-content/uploads/2014/03/guildfordbc-homepage-post.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/ben.cheetham.me.uk/wp-content/uploads/2014/03/guildfordbc-homepage-post.png?resize=297%2C300&amp;ssl=1 297w, https://i2.wp.com/ben.cheetham.me.uk/wp-content/uploads/2014/03/guildfordbc-homepage-post.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1" />
+![A screenshot of the Guildford Borough Council homepage](/content/2014/03/guildfordbc-homepage-post.png "Guildford Borough Council homepage")
 
 The header is quite large and is split into two areas. The top half including the logo and a set of general links, a Twitter "Follow" button and finally the accessibility controls.
 
@@ -43,7 +43,7 @@ The home page and navigation pages then have a content area that is full width w
 
 When displayed on a mobile the header is reduced in size to just the logo and accessibility links. The general links, site search and property search are relegated to a drop-down menu so the page content is the focus.
 
-<div class="text-center"><img src="https://i0.wp.com/ben.cheetham.me.uk/wp-content/uploads/2014/03/guildfordbc-homepage-post-mobile.png?resize=156%2C226&#038;ssl=1" alt="Guildford Borough Council homepage on a mobile" class="size-full wp-image-163" data-recalc-dims="1" /> <img src="https://i2.wp.com/ben.cheetham.me.uk/wp-content/uploads/2014/03/guildfordbc-content-post-mobile.png?resize=156%2C226&#038;ssl=1" alt="Guildford Borough Council content page on a mobile" class="size-full wp-image-169" data-recalc-dims="1" /></div>
+![A screenshot of the Guildford Borough Council homepage on a mobile device](/content/2014/03/guildfordbc-homepage-post-mobile.png "Guildford Borough Council homepage on a mobile") ![A screenshot of the Guildford Borough Council content page on a mobile](/content/2014/03/guildfordbc-content-post-mobile.png "Guildford Borough Council content page on a mobile")
 
 The Socitm report summarises it well:
 

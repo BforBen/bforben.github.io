@@ -2644,7 +2644,8 @@ body.custom-background.ignore-custom-background, body.custom-background.single, 
 .entry-content > dl,
 .entry-content > fieldset,
 .entry-content > .twitter-tweet,
-.entry-content > .page-links {
+.entry-content > .page-links,
+.entry-content > .gist {
   margin-left: auto;
   margin-right: auto;
   max-width: 760px;
@@ -6244,12 +6245,12 @@ body .infinite-loader .spinner > div {
   margin-right: auto;
 }
 
-#disqus_thread {
+/*#disqus_thread {
   margin-left: auto;
   margin-right: auto;
   max-width: 760px;
   width: 90%;
-}
+}*/
 
 .naked-social-share ul {
   list-style: none;
@@ -6481,3 +6482,7 @@ blockquote, q, .aesop-component.aesop-quote-component.aesop-quote-type-pull.aeso
 .entry-title a { color: #222; }
 .entry-subtitle a { color: #999; }
 .entry-meta a { color: #3b3b3b; }
+
+h2.categories a:after { content: ", "; }
+h2.categories a:last-child:after { content: ""; }
+

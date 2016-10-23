@@ -6,7 +6,7 @@ layout: page
   {% for post in paginator.posts %}
   <article class="post type-post format-standard hentry">
     <header class="entry-header">
-  	  <h2 class="entry-subtitle">
+  	  <h2 class="entry-subtitle categories">
   	    {% for category in post.categories %}
           <a href="{{ site.url }}{{ site.baseurl }}/blog/category/{{ category | slugify }}" rel="category tag">{{ category | capitalize }}</a> 
         {% endfor %}  

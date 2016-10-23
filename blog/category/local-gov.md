@@ -1,6 +1,6 @@
 ---
 layout: category
 category: local gov
-title: Local government
+title: Posts about local government
 ---
-Read posts about local government.
+Read my posts about local government.

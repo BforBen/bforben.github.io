@@ -3,6 +3,7 @@ layout: post
 title: It's about standards and schemas @ LocalGov Makers Hack Day
 author: Ben
 categories: [local gov]
+tags: [API, LocalGovCamp]
 date: 2014-06-23 12:56:38 +00:00
 modified: 2014-06-23 12:56:38 +00:00
 ---

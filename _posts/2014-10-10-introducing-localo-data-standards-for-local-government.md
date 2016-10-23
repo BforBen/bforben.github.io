@@ -3,6 +3,7 @@ layout: post
 title: Introducing Localo – Data standards for local government
 author: Ben
 categories: [local gov,code,projects]
+tags: [LocalGovDigital, localo, Makers]
 date: 2014-10-10 08:12:36 +00:00
 modified: 2014-10-10 08:12:36 +00:00
 ---
