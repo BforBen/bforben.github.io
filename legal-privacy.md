@@ -1,6 +1,8 @@
 ---
 title: Legal, cookies & privacy
 layout: page
+redirect_from:
+  - /legal-privacy/
 ---
 ## Copyright notice 
  

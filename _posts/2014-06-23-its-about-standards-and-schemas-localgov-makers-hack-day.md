@@ -6,6 +6,8 @@ categories: [local gov]
 tags: [API, LocalGovCamp]
 date: 2014-06-23 12:56:38 +00:00
 modified: 2014-06-23 12:56:38 +00:00
+redirect_from:
+  - /blog/2014/06/its-about-standards-and-schemas-localgov-makers-hack-day/
 ---
 Last Friday I attended the inaugural <a href="http://localgovdigital.info/localgov-digital-makers/localgov-makers-2014-hack-day/">LocalGov Makers Hack Day</a>, a fringe event of <a href="http://localgovdigital.info/localgovcamp/">LocalGovCamp</a>.
 

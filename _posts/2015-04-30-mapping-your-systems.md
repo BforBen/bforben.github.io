@@ -4,7 +4,9 @@ title: Mapping your systems
 author: Ben
 categories: [local gov]
 date: 2015-04-30 20:52:58 +00:00
-modified: 2015-04-30 20:52:58 +00:00
+modified: 2015-04-30 20:52:58 +00:
+redirect_from:
+  - /blog/2015/04/mapping-your-systems/
 ---
 Maps are useful things to see how places or stuff is connected &#8211; or not. After a conversation with <a href="http://www.folklabs.com/about-us/paul-mackay/" rel="external">Paul Mackay of Folk Labs</a> last year he introduced me to a <a href="http://www.freemium.org/" rel="nofollow">freemium</a> tool called <a href="https://kumu.io" rel="external">Kumu</a> which allows you to map relationships between things.
 
