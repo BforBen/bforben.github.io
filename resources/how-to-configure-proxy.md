@@ -6,9 +6,9 @@ redirect_from:
 ---
 ## Browser
 
-- [Microsoft Internet Explorer 7](#ie7 "Instructions on how to configure Microsoft Internet Explorer 7 to use a proxy server")
-- [Mozilla Firefox](#firefox "Instructions on how to configure Mozilla Firefox to use a proxy server")
-- [Opera](#opera "Instructions on how to configure Opera to use a proxy server")
+- [Microsoft Internet Explorer 7](#instructions-to-configure-a-proxy-server-in-microsoft-internet-explorer-7 "Instructions on how to configure Microsoft Internet Explorer 7 to use a proxy server")
+- [Mozilla Firefox](#instructions-to-configure-a-proxy-server-in-mozilla-firefox "Instructions on how to configure Mozilla Firefox to use a proxy server")
+- [Opera](#instructions-to-configure-a-proxy-server-in-opera "Instructions on how to configure Opera to use a proxy server")
 
 ## Instructions To Configure A Proxy Server In Microsoft Internet Explorer 7
 
