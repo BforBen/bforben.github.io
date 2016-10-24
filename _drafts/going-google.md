@@ -44,18 +44,17 @@ With Google and the Chromebook I feel I really can work flexibly. I'm not constr
 
 ## The not so good
 
-Some of the staff still don't get Google and it's not the same as Microsoft products.
+Some of the staff still don't get Google and it's clearly not the same as Microsoft products that many are used to. I think might in part be due to a lack of upfront training and support. Many functions that exist in Excel are there in Sheets, they're just not in the same place.
 
 ### Shared drives
 
-I've come from a council with a multitude of network shares and SharePoint document libraries. 
-
-The recently announced Team Drives might go some way to fixing this but I understand that it might be reserved for those that sign to G Suite Business (previously known as Google Apps Unlimited for Work) which is double the cost.
-
-
+I've come from a council with a multitude of network shares and SharePoint document libraries. You were able to just browse these and access was provided through membership of one or more groups. In Google you're reliant on someone sharing a folder or document with you or being sent a link. You then need to keep track of them yourself by adding them to your drive and it can then become confusing what's actually yours or someone elses. The recently announced Google Drive for Teams might go some way to making some of this better, but I understand that it might be reserved for those that sign to G Suite Business (previously known as Google Apps Unlimited for Work) which is double the cost.
 
 ### Finding out who people are
 
+I've find it quite hard to work out who people are. Microsoft SharePoint at my last place provided a nice organisational structure diagram that showed where people sat and how they were related to me. We have [Cloudpages](http://cloudpagesforwork.com/) available for Google to provide a search function but I find it it really slow and cumbersome to use.
+
+The Microsoft Outlook contact card popup was good at quickly providing access to user details such as job title, department and current availability - Google doesn't really have an equivalent.
 
 
 *[AfW]: Android for Work
