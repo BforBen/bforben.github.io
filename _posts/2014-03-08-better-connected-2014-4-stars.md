@@ -6,8 +6,6 @@ categories: [local gov, projects]
 tags: [Socitm, Web]
 date: 2014-03-08 20:33:13 +00:00
 modified: 2014-05-15 07:28:07 +00:00
-redirect_from:
-  - /blog/2014/03/better-connected-2014-4-stars/
 ---
 It was lovely to hear this week that Guildford had been awarded 4 stars in the 2014 [Socitm _Better connected_ survey](https://www.socitm.net/research/socitm-insight/better-connected). The part of the report that particularly interested me was around the experience when accessing the site via a mobile device.
 

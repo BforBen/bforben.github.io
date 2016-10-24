@@ -5,8 +5,6 @@ author: Ben
 categories: [local gov]
 date: 2014-09-07 09:33:47 +00:00
 modified: 2014-09-07 09:33:47 +00:00
-redirect_from:
-  - /blog/2014/09/tools-for-collaborating-what-do-you-use/
 ---
 What online tools do you use to collaborate both within your organisation and with others?
 

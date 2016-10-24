@@ -5,8 +5,6 @@ author: Ben
 categories: [local gov, service]
 date: 2014-09-07 08:12:06 +00:00
 modified: 2014-09-06 21:18:48 +00:00
-redirect_from:
-  - /blog/2014/09/rules-vs-good-service/
 ---
 Rules. They're everywhere. Are they a hindrance to "good" customer service? What does good service look like?
 
