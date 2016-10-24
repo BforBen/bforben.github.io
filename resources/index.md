@@ -1,6 +1,8 @@
 ---
 title: Resources
 layout: page
+redirect_from:
+ - /resources/net/
 ---
 This "resources" area includes some archived content from a previous version of this website: 
 
