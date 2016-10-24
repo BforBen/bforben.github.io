@@ -4,7 +4,7 @@ layout: page
 redirect_from:
  - /resources/how-to-configure-proxy/
 ---
-<h2>Browser</h2>
+## Browser
 
 <ul>
 	<li><a href="#ie7" title="Instructions on how to configure Microsoft Internet Explorer 7 to use a proxy server">Microsoft Internet Explorer 7</a></li>
