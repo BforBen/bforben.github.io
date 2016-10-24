@@ -1,6 +1,7 @@
 ---
-title: Going Google at work
 layout: post
+title: Going Google at work
+author: Ben
 date: 
 modified: 
 category: local gov
@@ -25,15 +26,21 @@ Working across multiple sites that aren't that geographically close (it's a good
 
 ### Android for Work
 
-Android for Work means I have access to all my work stuff on my phone via the native Android apps. It's all seperated from my personal data and work can only wipe work stuff, unlike the solution at my previous job where they were able to track the phone location and wipe the whole device.
+Android for Work (AfW) means I have access to all my work stuff on my phone via the native Android apps. It's all seperated from my personal data and work can only wipe work stuff, unlike the solution at my previous job where they were able to track the phone location and wipe the whole device. AfW apps show up with an orange briefcase icon in the corner of the regular app icon.
 
-Having a seperate space is not just about email and calendar but also my internet history and bookmarks in Chrome plus contacts.
+![Screenshot of Android for Work apps](/content/2016/10/android-for-work-apps.jpg "Android for Work apps")
 
+Having a seperate space is not just about email and calendar but also my internet history and bookmarks in Chrome plus contacts. In my call history and text message history a small briefcase icon appears where the contact is in my work profile.
 
+![Screenshot of Android phone dialler](/content/2016/10/android-phone-work.png "Android phone dialler")
+
+I also like the ability to turn the work profile on and off via the Android notification drawer which gives me an easy way to disable work stuff at weekends so I'm not tempted to check emails etc.
+
+![Screenshot of Android for Work control in Android notification drawer](/content/2016/10/android-for-work-control.png "Android for Work control in Android notification drawer")
 
 ### I don't need a desk or an office
 
-With Google and the Chromebook I feel I really can work flexibly. I'm not constrained by needing to be connected to a private network or to a specific desktop computer.
+With Google and the Chromebook I feel I really can work flexibly. I'm not constrained by needing to be connected to a private network or to a specific desktop computer. I can easily sit with the people I need to work with that day.
 
 ## The not so good
 
@@ -49,3 +56,6 @@ The recently announced Team Drives might go some way to fixing this but I unders
 
 ### Finding out who people are
 
+
+
+*[AfW]: Android for Work
