@@ -1,6 +1,8 @@
 ---
 title: Configure Microsoft Windows Internet Explorer, Mozilla FireFox & Opera To Use A Proxy Server
 layout: page
+redirect_from:
+ - /resources/how-to-configure-proxy/
 ---
 <h2>Browser</h2>
 
