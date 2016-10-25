@@ -6,7 +6,7 @@ date: 2016-10-26 12:05:00 +01:00
 modified: 2016-10-26 12:05:00 +01:00
 category: local gov
 ---
-As many of you will know, I'm a big fan of Google products - I'm on my second Nexus phone (Nexus 5X) and use G Suite (née Google Apps) for my personal email, calendar and word processing etc. I particularly love Inbox and it's ability to snooze emails to a future date/time or when I arrive at a specific location.
+As many of you will know, I'm a big fan of Google products - I'm on my second Nexus phone ([Nexus 5X](https://www.google.co.uk/intl/en_uk/nexus/5x/)) and use G Suite (née Google Apps) for my personal email, calendar and word processing etc. I particularly love Inbox and it's ability to snooze emails to a future date/time or when I arrive at a specific location.
 
 I've recently started work in the shared service for Royal Borough of Kingston, London Borough of Sutton and Achieving for Children who all share a single instance of Google's G Suite. I have to admit it was something that attracted me to the job. I'm now a month and a half in to using it in a work environment every day and there have been definitely been some ups and downs using it in this context.
 
