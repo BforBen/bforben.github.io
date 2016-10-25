@@ -2,8 +2,8 @@
 layout: post
 title: Going Google at work
 author: Ben
-date: 
-modified: 
+date: 2016-10-26 12:05:00 +01:00
+modified: 2016-10-26 12:05:00 +01:00
 category: local gov
 ---
 As many of you will know, I'm a big fan of Google products - I'm on my second Nexus phone and use G Suite (née Google Apps) for my personal email, calendar and word processing etc. I particularly love Inbox and it's ability to snooze emails to a future date/time or when I arrive at a specific location.
@@ -52,9 +52,13 @@ I've come from a council where there was a plethora of network shares and ShareP
 
 ### Finding out who people are
 
-I've found it quite hard to work out who people are. Microsoft SharePoint at my last place provided a nice organisational structure diagram that showed where people sat and how they were related to me. We have [Cloudpages](http://cloudpagesforwork.com/) available for Google to provide a search function, but I find it it really slow and cumbersome to use and doesn't provide any hierarchy.
+I've found it quite hard to work out who people are especially as I'm working for 2 organisations each with multiple office locations. Microsoft SharePoint at my last place provided a nice organisational structure diagram that showed where people sat and how they were related to me. We have [Cloudpages](http://cloudpagesforwork.com/) available for Google to provide a search function, but I find it it really slow and cumbersome to use and doesn't provide any hierarchy.
 
 The Microsoft Outlook contact card popup was also good at quickly providing access to user details such as job title, department and current availability - Google doesn't really have an equivalent.
+
+---
+
+I was once advised by someone that if you wanted to change the culture of the organisation, go Google, otherwise look at Microsoft Office 365 which gives many of the technical benefits of the cloud, but with a smaller opportunity for change. I think any organisation that looks to use Google needs to make sure that it isn't just a cost/IT decision as there are bigger opportunities. They should also ensure they provide enough support for staff to understand the potential benefits of the new technology to ensure a digital divide doesn't develop between staff between those that _get it_ and _embrace it_ and those that don't. 
 
 
 *[AfW]: Android for Work
