@@ -12,3 +12,5 @@ Yesterday I spoke on behalf of [LocalGov Digital](http://localgovdigital.info) a
 You can view the presentation I gave below:
 
 <iframe src="https://docs.google.com/presentation/d/1Tz6EaToIggh5590tcSiK_qiiKOQuDH0qYn8hyxdafao/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+To find out more, [join the Slack community](https://localgovdigital.slack.com/signup).
