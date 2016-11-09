@@ -6488,3 +6488,4 @@ blockquote, q, .aesop-component.aesop-quote-component.aesop-quote-type-pull.aeso
 h2.categories a:after { content: ", "; }
 h2.categories a:last-child:after { content: ""; }
 
+.content > iframe { display: block; } 
