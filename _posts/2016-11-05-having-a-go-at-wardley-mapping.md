@@ -30,11 +30,11 @@ Many councils are implementing CRMs (such as Microsoft Dynamics CRM) or "platfor
 
 A Head of IT is likely to be more interested in the tail of the value-chain where items such as the "data centre" that contains the IT equipment used to run the applications is mapped and also power. With the advent of commodity cloud services such as Amazon and Microsoft Azure it is harder to justify equipment sitting in a custom-built datacentre.
 
-The image below shows what we were able to achieve in the sessions:
+The image below shows what we were able to achieve in the session:
 
 ![Wardley Mapping Hangout output](/content/2016/11/wardleyish-map-hangout-1.svg "Wardley Mapping Hangout output")
 
-Not bad for a first attempt! We did all learn more about the process and what the benefits of mapping our services could be if we start to do this within our councils and share them.
+Not bad for a first attempt! We all learnt more about the process and what the benefits of mapping our services could be if we start to do this within our councils and share them.
 
 ## We're planning more introductory Hangouts
 
