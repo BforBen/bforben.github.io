@@ -2,8 +2,8 @@
 layout: post
 title: Having a go at Wardley Mapping
 author: Ben
-date: 2016-11-05 16:05:00 +01:00
-modified: 2016-11-05 16:05:00 +01:00
+date: 2016-11-09 10:45:00 +01:00
+modified: 2016-11-09 10:45:00 +01:00
 category: local gov
 ---
 
@@ -29,7 +29,7 @@ Many councils are implementing CRMs (such as Microsoft Dynamics CRM) or "platfor
 
 A Head of IT is likely to be more interested in the tail of the value-chain where items such as the "data centre" that contains the IT equipment used to run the applications is mapped and also power. With the advent of commodity cloud services such as Amazon and Microsoft Azure it is harder to justify equipment sitting in a custom-built datacentre.
 
-It's by no means perfect, but the image below shows what we were able to achieve in the sessions:
+The image below shows what we were able to achieve in the sessions:
 
 ![Wardley Mapping Hangout output](/content/2016/11/wardleyish-map-hangout-1.svg "Wardley Mapping Hangout output")
 
