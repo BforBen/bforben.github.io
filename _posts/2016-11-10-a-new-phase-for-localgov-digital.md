@@ -36,4 +36,4 @@ Becoming a _real thing_ means LocalGov Digital has more certainty and also a way
 LocalGov Digital has been about the people involved and the co-operative model allows us to make LocalGov Digital in to a proper entity but keeping people or members at the heart. I think it will also bring about an even bigger opportunity for people to get involved and have their say.
 
 
-For me it's been a long time coming and I think it's a really exciting prospect. We do want to hear your views, at this stage it's just an idea so please share your thoughts by blogging yourself, tweeting [@LocalGovDigital](https://twitter.com/LocalGovDigital) or emailing [feedback@localgovdigital.info](feedback@localgovdigital.info).
+For me it's been a long time coming and I think it's a really exciting prospect. We do want to hear your views, at this stage it's just an idea so please share your thoughts by blogging yourself, tweeting [@LocalGovDigital](https://twitter.com/LocalGovDigital) or emailing <feedback@localgovdigital.info>.
