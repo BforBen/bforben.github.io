@@ -35,5 +35,11 @@ Becoming a _real thing_ means LocalGov Digital has more certainty and also a way
 
 LocalGov Digital has been about the people involved and the co-operative model allows us to make LocalGov Digital in to a proper entity but keeping people or members at the heart. I think it will also bring about an even bigger opportunity for people to get involved and have their say.
 
+### Why charge for membership?
 
-For me it's been a long time coming and I think it's a really exciting prospect. We do want to hear your views, at this stage it's just an idea so please share your thoughts by blogging yourself, tweeting [@LocalGovDigital](https://twitter.com/LocalGovDigital) or emailing <feedback@localgovdigital.info>.
+No specific amount for joining the co-op has been proposed but I think there is something symbolic about paying to join which I hope will mean people will really support the values. I've already mentioned that nearly everything LocalGov Digital has done to date has been through goodwill or sponsorship which means it's not always been easy. Having some income from members, even if it is small, will be really beneficial. It's not about profit but bringing a bit more certainty and sustainability to the network as well as the ability to do more. For example, some of us met at the end of last year and talked about developing and providing learning opportunities but with out seed money it's hard to achieve.
+
+I'd also like to explore what [Code for America](https://www.codeforamerica.org/about-us) have done (who have similarities to LocalGov Digital in terms of their aims and values) with initiatives like [fellowships](https://www.codeforamerica.org/do-something/work-with-us). Their model is based around being a charity, accepting donations and charging an entrance fee for their annual summit.
+
+
+For me all formalising LocalGov Digital has been a long time coming and I think it's a really exciting prospect. It is just an idea at this stage, so please share your thoughts by blogging yourself, tweeting [@LocalGovDigital](https://twitter.com/LocalGovDigital) or emailing <feedback@localgovdigital.info>.
