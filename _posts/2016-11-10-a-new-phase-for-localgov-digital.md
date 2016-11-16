@@ -23,7 +23,7 @@ I have however always found it difficult to explain to people what the network i
 
 ## Understanding the proposition
 
-I think in the past few months LocalGov Digital has really started to understand what it's proposition is and has found new momentum. A number of us have attended meetings with more formal organisations over the past few years and nothing seems to happen. Following the closure of the DCLG Local Digital Programme that worked on projects such as the waste standards the Local Digital Coalition was formed to try and bring some of these organisations together but it feels like nothing has changed. It's simply not happening quick enough.
+I think in the past few months LocalGov Digital has really started to understand what it's proposition is and has found new momentum. A number of us have attended meetings with more formal organisations over the past few years and nothing seems to happen. Following the closure of the DCLG Local Digital Programme that worked on projects such as the waste standards the [Local Digital Coalition](http://www.localdigitalcoalition.uk/) was formed to try and bring some of these organisations together but it feels like nothing has changed. It's simply not happening quick enough.
 
 One of my favourite videos about digital and transformation is [Tom Loosemore talking at Code for America](https://www.youtube.com/watch?v=VjE_zj-7A7A&t=1806s&list=PLDGsBgVz2W87cAfk2y2SSods5kvlykpLi&index=1) and the need for new institutions. I'm not going to suggest LocalGov Digital could solve all the woes but I do think that by becoming a more formal _thing_ we will be able to do more and give even more credibility to what we do.
 
