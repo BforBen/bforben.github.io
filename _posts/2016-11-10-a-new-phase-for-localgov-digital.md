@@ -9,7 +9,7 @@ category: local gov
 
 [LocalGov Digital](http://localgovdigital.info): who knew you could achieve so much with so little?
 
-For those of you that didn't realise, LocalGov Digital is just a bunch of people who give up their time because they are passionate about what they do and care about making great local public services. There is no company, no office, no staff and no money. Things like the website are funded from people's own pocket and events such as LocalGovCamp from sponsorship together with a lot of good will.
+For those of you that didn't realise, LocalGov Digital is just a bunch of people who give up their time because they are passionate about what they do and care about making great local public services. There is no company, no office, no staff and no money. Things like the website are funded from people's own pocket and events such as [LocalGovCamp](http://localgovdigital.info/localgovcamp) from sponsorship together with a lot of good will.
 
 ## My journey with LocalGov Digital
 
