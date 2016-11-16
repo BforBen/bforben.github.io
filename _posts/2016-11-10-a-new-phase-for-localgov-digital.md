@@ -41,5 +41,6 @@ No specific amount for joining the co-op has been proposed but I think there is 
 
 I'd also like to explore what [Code for America](https://www.codeforamerica.org/about-us) have done (who have similarities to LocalGov Digital in terms of their aims and values) with initiatives like [fellowships](https://www.codeforamerica.org/do-something/work-with-us). Their model is based around being a charity, accepting donations and charging an entrance fee for their annual summit.
 
+## What do you think?
 
-For me all formalising LocalGov Digital has been a long time coming and I think it's a really exciting prospect. It is just an idea at this stage, so please share your thoughts by blogging yourself, tweeting [@LocalGovDigital](https://twitter.com/LocalGovDigital) or emailing <feedback@localgovdigital.info>.
+For me, formalising LocalGov Digital has been a long time coming and I think it's a really exciting prospect. It is however just an idea at this stage, so please share your thoughts by blogging yourself, tweeting [@LocalGovDigital](https://twitter.com/LocalGovDigital) or emailing <feedback@localgovdigital.info>.
