@@ -29,4 +29,11 @@ One of my favourite videos about digital and transformation is [Tom Loosemore ta
 
 So today we're announcing a proposal to become a co-operative, owned by individuals who are willing to commit to support the values of the Local Government Digital Service Standard. Our annual meeting would be LocalGovCamp and the regional peer groups could serve as local member meetings.
 
-For me it's been a long time coming and I think it's a really exciting prospect - what do you think?
+### Why a co-operative?
+
+Becoming a _real thing_ means LocalGov Digital has more certainty and also a way to do things like bid for funding without relying on someone within the network being able to receive organisational backing. We might also be able to fund some people to more fully focus on our values, bringing councils and other local bodies together to make public services better.
+
+LocalGov Digital has been about the people involved and the co-operative model allows us to make LocalGov Digital in to a proper entity but keeping people or members at the heart. I think it will also bring about an even bigger opportunity for people to get involved and have their say.
+
+
+For me it's been a long time coming and I think it's a really exciting prospect. We do want to hear your views, at this stage it's just an idea so please share your thoughts by blogging yourself, tweeting [@LocalGovDigital](https://twitter.com/LocalGovDigital) or emailing [feedback@localgovdigital.info](feedback@localgovdigital.info).
