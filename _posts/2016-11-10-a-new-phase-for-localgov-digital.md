@@ -19,7 +19,9 @@ Being part of LocalGov Digital has given me some fantastic opportunities to lear
 
 The network also helped me to develop an idea I had with [Paul Mackay](http://www.folklabs.com/about-us/paul-mackay/) and [Dan Blundell](https://www.danblundell.com/) at LocalGovCamp 2014 to make a data standard for waste. The work we started as a hobby project went on to form the basis of the [DCLG Local Waste Service Standards project](http://www.localdigitalcoalition.uk/product/local-waste-service-standards-project/) which estimated that use of the standard could save £505 million for English local authorities over a 14 year period. It also learnt some pretty difficult lessons around getting councils to work together that has fed in to the [#VerifyLocal pilot projects](https://identityassurance.blog.gov.uk/2016/10/03/verifylocal-pilots-are-open-for-business/).
 
-I have however always found it difficult to explain to people what the network is and how they can get involved. The informal nature of the network means there isn't anything as such to sign up to or join. It's also been difficult where we've had ideas to be able to take them forward as individuals.
+I have however always found it difficult to articulate to people what the network is and how they can get involved. The informal nature of the network means there isn't anything as such to sign up to or join. There's things like Slack, Unmentoring, Pipeline and LocalGovCamp but they don't neccessarily make people feel part of LocalGov Digital.
+
+It's also been difficult where we've had ideas to be able to take them forward as individuals.
 
 ## Understanding the proposition
 
