@@ -35,7 +35,9 @@ Today LocalGov Digital is proposing the _thing_ we become is a co-operative, own
 
 LocalGov Digital has been about the people involved and we think the co-operative model allows us to make LocalGov Digital in to a proper entity but keeping the people, or members, at the heart. I think it will also bring about an even bigger opportunity for people to get involved and have their say.
 
-### Why charge for membership?
+There are different legal structures for co-operatives 
+
+#### Why charge for membership?
 
 No specific amount for joining the co-op has been proposed but I think there is something symbolic about paying to join which I hope will mean people will really support the values. I've already mentioned that nearly everything LocalGov Digital has done to date has been through goodwill or sponsorship which means it's not always been easy. Having some income from members, even if it is small, will be really beneficial. It's not about profit but bringing a bit more certainty and sustainability to the network as well as the ability to do more. Especially in the current climate it is getting increasingly harder to get enough sponsorship to run events and as we look to do more that is not going to get any easier. We'd also like to try new things - for example, some of us met at the end of last year and talked about developing and providing learning opportunities but with out seed money it's hard to achieve.
 
