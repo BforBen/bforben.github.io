@@ -27,13 +27,13 @@ I think in the past few months LocalGov Digital has really started to understand
 
 One of my favourite videos about digital and transformation is [Tom Loosemore talking at Code for America](https://www.youtube.com/watch?v=VjE_zj-7A7A&t=1806s&list=PLDGsBgVz2W87cAfk2y2SSods5kvlykpLi&index=1) and the need for new institutions. I'm not going to suggest LocalGov Digital could solve all the woes but I do think that by becoming a more formal _thing_ we will be able to do more and give even more credibility to what we do.
 
-So today we're announcing a proposal to become a co-operative, owned by individuals who are willing to commit to support the values of the Local Government Digital Service Standard. Our annual meeting would be LocalGovCamp and the regional peer groups could serve as local member meetings.
+Becoming a _real thing_ means LocalGov Digital has more certainty and also a way to do things like bid for funding without relying on someone within the network being able to receive organisational backing. There have been aspirations in the past to be in a position to fund some people to more fully focus on our values, bringing councils and other local bodies together to make public services better.
+
+Today LocalGov Digital is proposing the _thing_ we become is a co-operative, owned by individuals who are willing to commit to support the values and principles of the co-op such as support on a personal level for the Local Government Digital Service Standard. One suggestion is for the required annual meeting be LocalGovCamp and the regional peer groups could serve as local member meetings.
 
 ### Why a co-operative?
 
-Becoming a _real thing_ means LocalGov Digital has more certainty and also a way to do things like bid for funding without relying on someone within the network being able to receive organisational backing. We might also be able to fund some people to more fully focus on our values, bringing councils and other local bodies together to make public services better.
-
-LocalGov Digital has been about the people involved and the co-operative model allows us to make LocalGov Digital in to a proper entity but keeping people or members at the heart. I think it will also bring about an even bigger opportunity for people to get involved and have their say.
+LocalGov Digital has been about the people involved and we think the co-operative model allows us to make LocalGov Digital in to a proper entity but keeping the people, or members, at the heart. I think it will also bring about an even bigger opportunity for people to get involved and have their say.
 
 ### Why charge for membership?
 
