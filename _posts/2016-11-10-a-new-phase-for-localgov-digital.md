@@ -31,7 +31,7 @@ One of my favourite videos about digital and transformation is [Tom Loosemore ta
 
 Becoming a _real thing_ means LocalGov Digital can scale with more certainty and also means we could do things like bid for funding without relying on someone within the network to do it via ther organisation and all the work that entails. There have been aspirations in the past to be in a position to fund some people to more fully focus on our values, bringing councils and other local bodies together to make public services better and this could bring us a step closer to that.
 
-Today LocalGov Digital is proposing the _thing_ we become is a co-operative, owned by individuals who are willing to commit to support the values and principles of the co-op such as support on a personal level for the Local Government Digital Service Standard. We're also suggesting organisations including both councils and suppliers could also get involved and sponsor the new co-operative based around their support for the service standard.
+[Today LocalGov Digital is proposing the _thing_ we become is a co-operative](http://localgovdigital.info/1424), owned by individuals who are willing to commit to support the values and principles of the co-op such as support on a personal level for the Local Government Digital Service Standard. We're also suggesting organisations including both councils and suppliers could also get involved and sponsor the new co-operative based around their support for the service standard.
 
 ### Why a co-operative?
 
