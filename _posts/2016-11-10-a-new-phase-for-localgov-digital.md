@@ -3,7 +3,7 @@ layout: post
 title: A new phase for LocalGov Digital
 author: Ben
 date: 2016-11-21 06:34:00 +00:00
-modified: 2016-11-21 06:34:00 +00:00
+modified: 2016-11-21 07:14:00 +00:00
 category: local gov
 ---
 
@@ -31,7 +31,7 @@ One of my favourite videos about digital and transformation is [Tom Loosemore ta
 
 Becoming a _real thing_ means LocalGov Digital can scale with more certainty and also means we could do things like bid for funding without relying on someone within the network to do it via ther organisation and all the work that entails. There have been aspirations in the past to be in a position to fund some people to more fully focus on our values, bringing councils and other local bodies together to make public services better and this could bring us a step closer to that.
 
-[Today LocalGov Digital is proposing the _thing_ we become is a co-operative](http://localgovdigital.info/1424), owned by individuals who are willing to commit to support the values and principles of the co-op such as support on a personal level for the Local Government Digital Service Standard. We're also suggesting organisations including both councils and suppliers could also get involved and sponsor the new co-operative based around their support for the service standard.
+[Today LocalGov Digital is proposing the _thing_ we become is a co-operative](http://localgovdigital.info/news/co-operative-consultation/), owned by individuals who are willing to commit to support the values and principles of the co-op such as support on a personal level for the Local Government Digital Service Standard. We're also suggesting organisations including both councils and suppliers could also get involved and sponsor the new co-operative based around their support for the service standard.
 
 ### Why a co-operative?
 
@@ -43,4 +43,4 @@ We'd also like to try new things - for example, some of us met at the end of las
 
 ## What do you think?
 
-For me, formalising LocalGov Digital has been a long time coming and I think it's a really exciting prospect. You can read more detail in the [news release on the LocalGov Digital site](http://localgovdigital.info). It is however just an idea at this stage, so please share your thoughts by blogging yourself, tweeting [@LocalGovDigital](https://twitter.com/LocalGovDigital) or emailing <feedback@localgovdigital.info>.
+For me, formalising LocalGov Digital has been a long time coming and I think it's a really exciting prospect. You can read more detail in the [news release on the LocalGov Digital site](http://localgovdigital.info). It is however just an idea at this stage, so please share your thoughts by blogging yourself, tweeting [@LocalGovDigital](https://twitter.com/LocalGovDigital) or emailing <feedback@localgovdigital.info>. You can also join the conversation on [Slack](https://localgovdigital.slack.com/messages/co-op_consultation/).
