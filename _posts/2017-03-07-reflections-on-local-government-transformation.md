@@ -3,7 +3,7 @@ layout: post
 title: Reflections on local government transformation
 author: Ben
 category: local gov
-date: 2017-03-07 22:20:07 +00:00
+date: 2017-03-07 23:35:09 +00:00
 ---
 Today marks 6 months since I left Guildford Borough Council as the IT developer in the Business Transformation Team and moved to work in the shared service for Royal Borough of Kingston and London Borough of Sutton as their Digital Service Design Lead.
 
@@ -29,6 +29,6 @@ Reflecting on my experiences there are some areas that I think are important to 
 
 * Be [open about what you're doing](https://www.gov.uk/design-principles#tenth) so others can learn, join in, see progress as well as lack of progress and start thinking about how they can change. It might also help the organisations [move from 'everyone wants to solve the problem' to 'everyone wants the problem to be solved'](http://www.hollidazed.co.uk/2016/04/30/everyone-wants-to-solve-the-problem/). I've lost count of the number of groups that are looking at transformation across the 2 councils. In some cases this results in needless competition and friction and in others it's just a wasteful duplication of effort. 
 
-* I'm also convinced more than ever that you just need to get a team of competent people that bring [a mix of the right skills](https://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard/standard/2/) together with a budget to get the tools they need and an avenue to get senior support, quickly. Then give them time to sit down with services, engage with them and explore user needs and then work together to redesign services that do the actual things actual people actually need.
+* I'm also convinced more than ever that you just need to get a team of competent people that bring [a mix of the right skills](https://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard/standard/2/) together with a budget to get the tools they need and an avenue to get senior support, quickly. Then give them time to sit down with services, engage with them and explore user needs and then work together to redesign services that do the actual things actual people actually need. It doesn't matter which department's budget pays the salary of the people. Focus on the skills and experience they bring.
 
 * Iterate your service and your team. Learn from what you do to make things better next time.
