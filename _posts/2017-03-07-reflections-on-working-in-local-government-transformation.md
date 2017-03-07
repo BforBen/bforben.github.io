@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Reflections on local government transformation
+title: Reflections on working in local government transformation
 author: Ben
 category: local gov
-date: 2017-03-07 23:35:09 +00:00
+date: 2017-03-07 23:37:09 +00:00
 ---
 Today marks 6 months since I left Guildford Borough Council as the IT developer in the Business Transformation Team and moved to work in the shared service for Royal Borough of Kingston and London Borough of Sutton as their Digital Service Design Lead.
 
