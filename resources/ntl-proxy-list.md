@@ -2,8 +2,9 @@
 title: Virgin Media (ntl:) Proxy Server List
 layout: page
 redirect_from:
- - /resources/ntl-proxy-list/
+- "/resources/ntl-proxy-list/"
 ---
+
 <p><strong>Virgin Media</strong> is the new name for the combined operations of <strong>ntl:</strong>, <strong>Telewest Blueyonder</strong>, <strong>Virgin.net</strong> and <strong>Virgin Mobile</strong>.</p> 
 
 <p>In some situations where Virgin Media broadband customers are experiencing a slow connection or incomplete pages a proxy server can be configured to help improve the service.</p> 

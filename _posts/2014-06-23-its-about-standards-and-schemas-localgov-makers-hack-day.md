@@ -1,14 +1,18 @@
 ---
-layout: post
 title: It's about standards and schemas @ LocalGov Makers Hack Day
+date: 2014-06-23 13:56:38 +01:00
+categories:
+- local gov
+tags:
+- API
+- LocalGovCamp
+layout: post
 author: Ben
-categories: [local gov]
-tags: [API, LocalGovCamp]
-date: 2014-06-23 12:56:38 +00:00
-modified: 2014-06-23 12:56:38 +00:00
+modified: 2014-06-23 13:56:38 +01:00
 redirect_from:
-  - /blog/2014/06/its-about-standards-and-schemas-localgov-makers-hack-day/
+- "/blog/2014/06/its-about-standards-and-schemas-localgov-makers-hack-day/"
 ---
+
 Last Friday I attended the inaugural <a href="http://localgovdigital.info/localgov-digital-makers/localgov-makers-2014-hack-day/">LocalGov Makers Hack Day</a>, a fringe event of <a href="http://localgovdigital.info/localgovcamp/">LocalGovCamp</a>.
 
 I started the day with <a href="http://localgovdigital.info/localgov-digital-makers/localgov-makers-2014-hack-day/hack-day-2014-challenge-one/">Challenge One</a> &#8211; the aim of which was to build a local public services search engine. One of the key questions for the challenge was &#8220;<em>why not just use Google?</em>&#8220;.

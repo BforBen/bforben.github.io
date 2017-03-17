@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Reflections on working in local government transformation
-author: Ben
-category: local gov
 date: 2017-03-07 23:37:09 +00:00
+categories:
+- local gov
+layout: post
+author: Ben
 updated: 2017-03-08 10:53:00 +00:00
 ---
+
 Today marks 6 months since I left Guildford Borough Council as the IT developer in the Business Transformation Team and moved to work in the shared service for Royal Borough of Kingston and London Borough of Sutton as their Digital Service Design Lead.
 
 I had become very jaded at Guildford because there had for a number of years been a complete lack of leadership at senior levels compounded by a rapid succession of director and IT management changes that just made it impossible to make progress on anything meaningful within the IT service, let alone make any headway on redesigning services for the public we served. The team dwindled in size during that time which made matters worse, such that by the time I left the team was going to just be a single business analyst - sorry [Alex](https://twitter.com/InterestedAl)!

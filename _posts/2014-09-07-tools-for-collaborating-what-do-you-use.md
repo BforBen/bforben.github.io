@@ -1,13 +1,15 @@
 ---
-layout: post
 title: Tools for collaborating. What do you use?
+date: 2014-09-07 10:33:47 +01:00
+categories:
+- local gov
+layout: post
 author: Ben
-categories: [local gov]
-date: 2014-09-07 09:33:47 +00:00
-modified: 2014-09-07 09:33:47 +00:00
+modified: 2014-09-07 10:33:47 +01:00
 redirect_from:
-  - /blog/2014/09/tools-for-collaborating-what-do-you-use/
+- "/blog/2014/09/tools-for-collaborating-what-do-you-use/"
 ---
+
 What online tools do you use to collaborate both within your organisation and with others?
 
 Since <a href="http://localgovdigital.info/localgovcamp/" target="_blank">LocalGovCamp</a> earlier this year I've been working with other <a href="http://localgovdigital.info/localgov-digital-makers/">LocalGov Digital Makers</a> on pilot projects such as Pipeline, Pulse and <a href="http://localgovdigital.github.io/localo/" target="_blank">Localo</a> using tools such as Trello, Slack and GitHub. The Cabinet Office published <a href="https://www.gov.uk/government/publications/digital-skills-in-the-civil-service/an-introductory-guide-to-open-internet-tools-for-civil-servants" target="_blank">a guide for civil servants</a> earlier this year and it would be great to make something similar for the local government space.

@@ -1,14 +1,21 @@
 ---
-layout: post
 title: Introducing Localo – Data standards for local government
+date: 2014-10-10 09:12:36 +01:00
+categories:
+- local gov
+- code
+- projects
+tags:
+- LocalGovDigital
+- localo
+- Makers
+layout: post
 author: Ben
-categories: [local gov,code,projects]
-tags: [LocalGovDigital, localo, Makers]
-date: 2014-10-10 08:12:36 +00:00
-modified: 2014-10-10 08:12:36 +00:00
+modified: 2014-10-10 09:12:36 +01:00
 redirect_from:
- - /blog/2014/10/introducing-localo-data-standards-for-local-government/
+- "/blog/2014/10/introducing-localo-data-standards-for-local-government/"
 ---
+
 We're all making digital services and aiming to make them so good that people prefer to carry out the transaction online rather than by phone, post or in person. Besides creating a better user experience, digital services can also help to reduce costs and release council staff to concentrate on other things such as <a href="https://www.gov.uk/service-manual/assisted-digital">assisted digital</a>.
 
 To make these digital services we must be able to automate processes 'end-to-end' and that means enabling processes to use and interact with data held in line of business systems. There are hundreds if not thousands of these systems within local government with each council using a different combination.

@@ -1,9 +1,11 @@
 ---
-title: Configure Microsoft Windows Internet Explorer, Mozilla FireFox & Opera To Use A Proxy Server
+title: Configure Microsoft Windows Internet Explorer, Mozilla FireFox & Opera To Use
+  A Proxy Server
 layout: page
 redirect_from:
- - /resources/how-to-configure-proxy/
+- "/resources/how-to-configure-proxy/"
 ---
+
 ## Browser
 
 - [Microsoft Internet Explorer 7](#instructions-to-configure-a-proxy-server-in-microsoft-internet-explorer-7 "Instructions on how to configure Microsoft Internet Explorer 7 to use a proxy server")

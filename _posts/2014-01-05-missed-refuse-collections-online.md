@@ -1,14 +1,20 @@
 ---
-layout: post
 title: Missed refuse collections online
-author: Ben
-categories: [local gov, projects]
-tags: [Missed collections, Transformation, Waste]
 date: 2014-01-05 21:46:19 +00:00
+categories:
+- local gov
+- projects
+tags:
+- Missed collections
+- Transformation
+- Waste
+layout: post
+author: Ben
 modified: 2014-01-05 21:46:19 +00:00
 redirect_from:
-  - /blog/2014/01/missed-refuse-collections-online/
+- "/blog/2014/01/missed-refuse-collections-online/"
 ---
+
 Just prior to Christmas we launched our missed collections reporting form on the website. Up until then missed collection reports were handled by staff in the Customer Service Centre and those that were reported before 3pm on the day of collection had to wait so the back office had time to process the paper job sheets that were returned by the crews.
 
 ![Guildford Borough Council - Missed refuse collections form](/content/2014/01/guildfordbc-misscoll-public.png){:.alignright}

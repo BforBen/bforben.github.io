@@ -1,14 +1,19 @@
 ---
-layout: post
 title: A shared web platform for local government?
+date: 2014-06-09 21:44:45 +01:00
+categories:
+- local gov
+tags:
+- API
+- Open311
+- OpenGov
+layout: post
 author: Ben
-categories: [local gov]
-tags: [API, Open311, OpenGov]
-date: 2014-06-09 20:44:45 +00:00
-modified: 2014-06-09 20:44:45 +00:00
+modified: 2014-06-09 21:44:45 +01:00
 redirect_from:
-  - /blog/2014/06/a-shared-web-platform-for-local-government/
+- "/blog/2014/06/a-shared-web-platform-for-local-government/"
 ---
+
 Following a tweet last week by <a href="http://localgovdigital.info/">LocalGov Digital</a> I wanted to respond with my thoughts...
 
 <blockquote class="twitter-tweet" lang="en"><p>The idea of a single platform for <a href="https://twitter.com/search?q=%23localgov&amp;src=hash">#localgov</a> comes up. Again. What do you all think? <a href="http://t.co/ddglfJd4mM">http://t.co/ddglfJd4mM</a> <a href="https://twitter.com/search?q=%23localgovdigital&amp;src=hash">#localgovdigital</a></p>

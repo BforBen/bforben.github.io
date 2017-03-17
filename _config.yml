@@ -1,45 +1,44 @@
-# Site settings
+---
 title: Ben Cheetham
+timezone: Europe/London
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: local gov digital maker
-
 baseurl: 
 url: https://ben.cheetham.me.uk
-
 twitter_username: _BforBen
-github_username:  bforben
+github_username: bforben
 disqus_shortname: bforben
-analytics : UA-89904-3
-
+analytics: UA-89904-3
 paginate: 10
 paginate_path: "/blog/page/:num/"
-
-# Build settings
 safe: true
-timezone: Europe/London
 lsi: false
 highlighter: rouge
 markdown: kramdown
-permalink: /blog/:year/:month/:title
-
+permalink: "/blog/:year/:month/:title"
 exclude:
-  - compile.sh
-  - CONTRIBUTING.md
-  - Gemfile
-  - Gemfile.lock
-  - Makefile
-  - lint.go
-  - README.md
-  - tools
-  - vendor
-  - CNAME
-
+- compile.sh
+- CONTRIBUTING.md
+- Gemfile
+- Gemfile.lock
+- Makefile
+- lint.go
+- README.md
+- tools
+- vendor
+- CNAME
 kramdown:
   auto_ids: true,
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: true
-
 coderay:
   coderay_wrap: div
   coderay_line_numbers: ''
@@ -47,12 +46,10 @@ coderay:
   coderay_tab_width: 4
   coderay_bold_every: 10
   coderay_css: style
-  
 sass:
   style: compressed
-  
 gems:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-feed
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap

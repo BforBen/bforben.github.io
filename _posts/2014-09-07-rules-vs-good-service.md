@@ -1,13 +1,16 @@
 ---
-layout: post
 title: Rules vs good service
+date: 2014-09-07 09:12:06 +01:00
+categories:
+- local gov
+- service
+layout: post
 author: Ben
-categories: [local gov, service]
-date: 2014-09-07 08:12:06 +00:00
-modified: 2014-09-06 21:18:48 +00:00
+modified: 2014-09-06 22:18:48 +01:00
 redirect_from:
-  - /blog/2014/09/rules-vs-good-service/
+- "/blog/2014/09/rules-vs-good-service/"
 ---
+
 Rules. They're everywhere. Are they a hindrance to "good" customer service? What does good service look like?
 
 Whilst working on the Localo project (a [LocalGov Digital Makers](http://localgovdigital.info/localgov-digital-makers/) pilot project &#8211; come to the [meet up next week](http://localgovdigital.info/news/localgov-digital-makers-meet-up/) to find out more) where we've looked at creating a standard data model and API for waste service has meant I've looked at lots of different council's forms that support their waste service offering and has led me to start to think about what good service is.

@@ -1,12 +1,15 @@
 ---
-layout: post
 title: Public Sector Show
+date: 2016-06-29 11:00:00 +01:00
+categories:
+- local gov
+tags:
+- LGDSS
+layout: post
 author: Ben
-category: local gov
-tags: LGDSS
-date: 2016-06-29 10:00:00 +00:00
-modified: 2016-06-29 10:00:00 +00:00
+modified: 2016-06-29 11:00:00 +01:00
 ---
+
 Yesterday I spoke on behalf of [LocalGov Digital](http://localgovdigital.info) about the [Local Government Digital Service Standard](http://localgovdigital.info/digital-service-standard).
 
 You can view the presentation I gave below:

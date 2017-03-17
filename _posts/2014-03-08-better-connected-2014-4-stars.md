@@ -1,14 +1,19 @@
 ---
-layout: post
 title: Better connected 2014 – 4 stars!
-author: Ben
-categories: [local gov, projects]
-tags: [Socitm, Web]
 date: 2014-03-08 20:33:13 +00:00
-modified: 2014-05-15 07:28:07 +00:00
+categories:
+- local gov
+- projects
+tags:
+- Socitm
+- Web
+layout: post
+author: Ben
+modified: 2014-05-15 08:28:07 +01:00
 redirect_from:
-  - /blog/2014/03/better-connected-2014-4-stars/
+- "/blog/2014/03/better-connected-2014-4-stars/"
 ---
+
 It was lovely to hear this week that Guildford had been awarded 4 stars in the 2014 [Socitm _Better connected_ survey](https://www.socitm.net/research/socitm-insight/better-connected). The part of the report that particularly interested me was around the experience when accessing the site via a mobile device.
 
 > This is a site that is showing great promise and is very nearly delivering all the time. The home page is almost perfect. Only ONE form of navigation makes it easy to pick out what I am  looking for and it works really well. Why can't everyone else do this? The landing pages are similarly clutter-free. Most of the time the content is very well-judged and is certainly succinct. The site excels in the experience it delivers on a mobile, where it is second to none.

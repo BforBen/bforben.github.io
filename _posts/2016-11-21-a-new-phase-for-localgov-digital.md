@@ -1,10 +1,11 @@
 ---
-layout: post
 title: A new phase for LocalGov Digital
-author: Ben
 date: 2016-11-21 06:34:00 +00:00
+categories:
+- local gov
+layout: post
+author: Ben
 modified: 2016-11-21 07:14:00 +00:00
-category: local gov
 ---
 
 [LocalGov Digital](http://localgovdigital.info): who knew you could achieve so much with so little?

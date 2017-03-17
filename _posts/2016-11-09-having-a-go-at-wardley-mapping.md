@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Having a go at Wardley Mapping
+date: 2016-11-09 09:45:00 +00:00
+categories:
+- local gov
+layout: post
 author: Ben
-date: 2016-11-09 10:45:00 +01:00
-modified: 2016-11-09 11:03:00 +01:00
-category: local gov
+modified: 2016-11-09 10:03:00 +00:00
 ---
 
 Last Friday I participated in a Google Hangout organised by [Richard Barton](https://twitter.com/cioportfolio) to look at Wardley Mapping and bookings.

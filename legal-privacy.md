@@ -2,8 +2,9 @@
 title: Legal, cookies & privacy
 layout: page
 redirect_from:
-  - /legal-privacy/
+- "/legal-privacy/"
 ---
+
 ## Copyright notice 
  
 Copyright &copy; Ben Cheetham 2004-{{ 'now' | date: "%Y" }}. All rights reserved.
