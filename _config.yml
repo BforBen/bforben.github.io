@@ -8,6 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    read_time: true
 description: local gov digital maker
 baseurl: 
 url: https://ben.cheetham.me.uk
@@ -16,13 +23,6 @@ github_username: bforben
 disqus_shortname: bforben
 analytics: UA-89904-3
 locale: en
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    read_time: true
 paginate: 10
 paginate_path: "/blog/page/:num/"
 safe: true
