@@ -1,11 +1,11 @@
 ---
 title: Having another go at Wardley Mapping
-date: 2017-04-21 15:10:09 +00:00
+date: 2017-04-21 16:10:09 +01:00
 categories:
 - local gov
 layout: post
 author: Ben
-updated: 2017-04-21 15:10:09 +00:00
+updated: 2017-04-21 16:10:09 +01:00
 ---
 
 Last year a group of us got together online to look at [Wardley Mapping](http://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html) (also known as Value Chain Mapping). You can read more about what Wardley Mapping is and what we did in the session [in a previous blog post](/blog/2016/11/having-a-go-at-wardley-mapping).
