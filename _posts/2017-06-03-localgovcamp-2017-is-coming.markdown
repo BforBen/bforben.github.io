@@ -17,7 +17,7 @@ More will be shared on the [LocalGov Digital website](http://localgovdigital.inf
  
 ### Saturday - unconference day
  
-The Saturday is an "unconference" which means no-one knows the agenda until the day - it's set by the people that turn up (although feel free to use [LocalGovCamp Slack](https://localgovcamp.slack.com/) to discuss your pitching ideas). It might sound scary but in my experience it works well. The sessions are not about being spoken at with a PowerPoint background for 40 minutes with a question and answer section at the end. It's about the group of people in the room discussing or working through a topic or question that someone has always wondered about. If the discussion isn't working for you then speak up or move on to another room to see what's going on in there.
+The Saturday is an "unconference" which means no-one knows the agenda until the day - it's set by the people that turn up (although feel free to use [LocalGovCamp Slack](https://localgovcamp.slack.com/) to discuss your pitch ideas). It might sound scary but in my experience it works well. The sessions are not about being spoken at with a PowerPoint background for 40 minutes with a question and answer section at the end. It's about the group of people in the room discussing or working through a topic or question that someone has always wondered about. If the discussion isn't working for you then speak up or move on to another room to see what's going on in there.
  
 You can see what was talked about in previous years on the [LocalGov Digital website](http://localgovdigital.info/localgovcamp/localgovcamp-and-fringe-2016/), see the  [session grid](https://j.mp/lgcsessions) and photos on [Flickr](https://www.flickr.com/search/?text=localgovcamp&sort=date-posted-desc).
  
