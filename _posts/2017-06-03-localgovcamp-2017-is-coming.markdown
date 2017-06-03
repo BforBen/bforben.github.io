@@ -27,4 +27,4 @@ You can see what was talked about in previous years on the [LocalGov Digital web
  
 It’s free to attend both days and you can choose which days you'd like to attend. Following UKGovCamp's lead we're trialing a lottery as the way to get tickets so it's not about who can sign up for a ticket quickest.
  
-To join the lottery you need to sign up by 9th June at [https://www.surveymonkey.co.uk/r/VPMXQF2]. **Do it!!**
+To join the lottery you need to sign up by 9th June at (https://www.surveymonkey.co.uk/r/VPMXQF2). **Do it!!**
