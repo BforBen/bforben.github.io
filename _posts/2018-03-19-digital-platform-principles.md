@@ -1,5 +1,5 @@
 ---
-title: Digital platform princples?
+title: Digital platform principles?
 date: 2018-03-19 22:22:00 +00:00
 categories:
 - local gov
