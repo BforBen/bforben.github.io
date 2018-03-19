@@ -15,7 +15,7 @@ defaults:
   values:
     layout: post
     read_time: true
-description: local gov digital maker
+description: local gov digital
 baseurl: 
 url: https://ben.cheetham.me.uk
 twitter_username: BforBen
