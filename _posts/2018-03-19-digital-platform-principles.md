@@ -11,7 +11,7 @@ Like the word 'digital', I think platform can mean different things to different
 
 As I'm in a shared service between 2 councils that also supports a number of arms-length and local authority trading companies we're in a different situation to many other local authority IT or digital teams where we have a bit more of a mandate to look for opportunities and solutions that scale across a number of scenarios.
 
-I don't think we can design the whole platform upfront nor should we. We don't know all the needs at this point. I've therefore been pondering if we could have some principles or things we need to consider along the way to support the tech elements. I'd be interested to know what others think...
+I don't think we can design the whole platform upfront nor should we. We don't know all the needs at this point. I've therefore been pondering if we could have some principles or things we need to consider along the way to support the tech elements. These are some thoughts I've had so far.
 
 1. Where possible use products that meet a simple and common need. Don't duplicate capabilities provided by [GOV.UK Components](https://www.gov.uk/service-toolkit#components). I believe this allows you to be more agile and respond to changes more quickly.
 
@@ -49,4 +49,4 @@ I think there are also some interesting principles in a 2016 blog post by the GD
 
 To back this up there is also the wealth of knowledge in the [Government Service Manual](https://www.gov.uk/service-manual/), the [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) and the recently launched [API and technical data standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards).
 
-What do you think?
+What do you think? What have I missed?
