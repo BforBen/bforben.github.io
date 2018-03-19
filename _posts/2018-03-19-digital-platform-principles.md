@@ -5,7 +5,7 @@ categories:
 - local gov
 ---
 
-It's time to refresh a number of products used to deliver online transactions and we've been starting to think about what the technology of our platform needs to be and look like in the future.
+It's time to refresh a number of products used to deliver online transactions and we've been starting to think about what the technology of our platform needs to be and look like in the future to help support our aspiration of delivering services designed to met the [Local Government Digital Service Standard](https://localgov.digital/service-standard).
 
 Like the word 'digital', I think platform can mean different things to different people. Platform for me is a number of capabilities (covering people, process and technology) that are available across the organisation. I also think the platform or aspects of it could in many cases be available across the locality to support others delivering public services as well as local enterprises or groups.
 
@@ -48,7 +48,5 @@ I think there are also some interesting principles in a 2016 blog post by the GD
 - Be open about performance. This helps services, the organisations and the public understand what's going on. Real-time performance is also key for us to support the platform.
 
 To back this up there is also the wealth of knowledge in the [Government Service Manual](https://www.gov.uk/service-manual/), the [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) and the recently launched [API and technical data standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards).
-
-Obviously this is all to support services being designed to the [Local Government Digital Service Standard](https://localgov.digital/service-standard).
 
 What do you think?
