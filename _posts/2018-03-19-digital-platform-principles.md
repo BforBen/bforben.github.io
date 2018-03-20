@@ -15,13 +15,13 @@ I don't think we can design the whole platform upfront nor should we. We don't k
 
 1. Where possible use products that meet a simple and common need. Don't duplicate capabilities provided by [GOV.UK Components](https://www.gov.uk/service-toolkit#components). I believe this allows you to be more agile and respond to changes more quickly.
 
-2. [Be consistent, not uniform](https://www.gov.uk/guidance/government-design-principles#be-consistent-not-uniform). Services should make use [Government Design Patterns](https://www.gov.uk/service-manual/design) and as it emerges the [GOV.UK Design System](https://gds.blog.gov.uk/2017/10/30/building-the-gov-uk-design-system/). This makes it easier for our staff to work across the whole organisation and for our users interacting with government - central or local.
+2. [Be consistent, not uniform](https://www.gov.uk/guidance/government-design-principles#be-consistent-not-uniform). Services should make use [Government Design Patterns](https://www.gov.uk/service-manual/design) and as it emerges, the [GOV.UK Design System](https://gds.blog.gov.uk/2017/10/30/building-the-gov-uk-design-system/). This makes it easier for our staff to work across the whole organisation and for our users interacting with government - central or local.
 
 3. Explicitly plan to have multiple products and suppliers in your tech estate. You already have loads of tech and you're not going to get rid of it that easily. As we commission more services or work with other organisations to deliver services that meet actual user needs there are always going to be different systems and providers in the mix.
 
 4. Don't commit for more than 3(?) years. Tech changes, needs change, demand changes. You need to be able to change without being tied in for a lifetime.
 
-5. Use open standards where possible. If you can't make sure there is good documentation for the interfaces. This helps avoid us being tied down to one supplier and helps other suppliers or new entrants offer solutions without us having a huge burden of change.
+5. Use open standards where possible. If you can't, make sure there is good documentation for the interfaces. This helps avoid us being tied down to one supplier and helps other suppliers or new entrants offer solutions without us having a huge burden of change.
 
 6. Cloud first. Because who wants to maintain servers anymore?
 
