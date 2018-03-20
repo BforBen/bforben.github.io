@@ -5,7 +5,7 @@ categories:
 - local gov
 ---
 
-It's time to refresh a number of products used to deliver online transactions and we've been starting to think about what the technology of our platform needs to be and look like in the future to help support our aspiration of delivering services designed to met the [Local Government Digital Service Standard](https://localgov.digital/service-standard).
+It's time to refresh a number of products used to deliver online transactions and we've been starting to think about what the technology of our platform needs to be and look like in the future to help support our aspiration of delivering services designed to meet the [Local Government Digital Service Standard](https://localgov.digital/service-standard).
 
 Like the word 'digital', I think platform can mean different things to different people. Platform for me is a number of capabilities (covering people, process and technology) that are available across the organisation. I also think the platform or aspects of it could in many cases be available across the locality to support others delivering public services as well as local enterprises or groups.
 
