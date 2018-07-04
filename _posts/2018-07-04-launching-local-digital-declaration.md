@@ -1,6 +1,6 @@
 ---
 title: Launch of the Local Digital Declaration
-date: 2018-07-04 17:43:00 +00:00
+date: 2018-07-04 18:43:00 +01:00
 categories:
 - local gov
 ---
