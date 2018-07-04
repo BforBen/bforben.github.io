@@ -23,6 +23,8 @@ Another difference compared to previous attempts is it's the organisation, the w
 
 Finally, there's also funding this time. Both for a team at MHCLG and for councils to use. The MHCLG team, known as the Local Collaboration Unit, is there to support solving some of the common challenges but also help scale the good work that is already going on across the sector so we're not always starting from scratch and duplicating.
 
+Watch Rishi Sunak (Under Secretary of State at the Ministry of Housing, Communities and Local Government) launching the declaration at the LGA Conference:
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/mhclg?ref_src=twsrc%5Etfw">@mhclg</a> Minister Rishi Sunak announces £££, new team (us) and co-written <a href="https://twitter.com/hashtag/LocalDigital?src=hash&amp;ref_src=twsrc%5Etfw">#LocalDigital</a> Declaration <a href="https://twitter.com/LGA?ref_src=twsrc%5Etfw">@LGA</a> <a href="https://twitter.com/hashtag/FixThePlumb?src=hash&amp;ref_src=twsrc%5Etfw">#FixThePlumb</a>… <a href="https://t.co/wVFxgLQqIb">https://t.co/wVFxgLQqIb</a></p>&mdash; Linda O&#39;Halloran (@LindaSasta) <a href="https://twitter.com/LindaSasta/status/1014538755527458816?ref_src=twsrc%5Etfw">July 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
