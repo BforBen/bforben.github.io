@@ -56,7 +56,7 @@ coderay:
   coderay_css: style
 sass:
   style: compressed
-gems:
+plugins:
 - jekyll-feed
 - jekyll-redirect-from
 - jekyll-seo-tag
