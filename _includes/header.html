@@ -1,57 +1,21 @@
-<header class="header bg">
-  <div class="backdrop"></div>
-	<div class="site-nav">
-		<a class="hamburger" data-action="toggle-overlay" data-overlay-id="menu-overlay" href="#menu-overlay"><span aria-label="Toggle Overlay"></span></a>
-	</div>
 
-    <div class="site-info">
-        <a href="{{ "/" | prepend: site.baseurl }}" class="site-title">Ben Cheetham</a>
-        <span class="site-description">local gov digital</span>
-	</div>
-</header>
-
-
-<div id="menu-overlay" class="overlay overlay-dark overlay-menu">
-    <noscript>
-        <div class="header">
-            <div class="site-nav">
-                <a class="hamburger close" href="#"><span aria-label="Toggle overlay"></span></a>
-            </div>
+<a class="skip-navigation" href="#main">Skip to content</a>
+<header class="container-fluid justify-content-md-center">
+    <div class="row">
+        <div class="col-9 col-md-9 pl-md-5"">
+            <a href="{{ "/" | prepend: site.baseurl }}" class="site-logo ml-md-4" rel="home">
+                <img src="https://secure.gravatar.com/avatar/bae457ea71d62adc8033409bb14d2ee8?s=53&amp;d=blank&amp;r=pg" alt="{{ site.title }}" class="avatar" height="53" width="53">
+            </a>
+            <a href="{{ "/" | prepend: site.baseurl }}" class="site-title ml-md-3 align-middle" rel="home">{{ site.title }}</a>
+            <span class="align-middle sep d-none d-md-inline">&middot;</span>
+            <span class="align-middle site-description d-none d-md-inline">{{ site.description }}</span>
         </div>
-    </noscript>
-
-    <nav class="main-navigation">
-        <div class="menu-primary-container">
-            <ul class="menu">
-                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-367"><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
+        <div class="col-3 col-md-2 text-right">
+            <ul class="list-inline list-social">
+                <li class="list-inline-item"><a href="https://twitter.com/{{ site.twitter_username }}"><img src="{{ "/assets/twitter.svg" | prepend: site.baseurl }}" alt="Twitter logo" width="32" height="32"><span class="sr-only">Twitter</span></a></li>
+                <li class="list-inline-item d-none d-md-inline"><a href="https://github.com/{{ site.github_username }}"><img src="{{ "/assets/github.svg" | prepend: site.baseurl }}" alt="GitHub logo" width="32" height="32"><span class="sr-only">GitHub</span></a></li>
+                <li class="list-inline-item d-none d-sm-inline"><a href="https://www.linkedin.com/profile/view?id=38596560"><img src="{{ "/assets/linkedin.svg" | prepend: site.baseurl }}" alt="LinkedIn logo" width="32" height="32"><span class="sr-only">LinkedIn</span></a></li>
             </ul>
         </div>
-    </nav>
-        
-    <nav class="social-navigation">
-        <div class="menu-social-container">
-            <ul class="menu">
-                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353"><a href="https://twitter.com/BforBen"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">Twitter</span></a></li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-354"><a href="https://plus.google.com/106837556918973875033"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">Google+</span></a></li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-352"><a href="https://github.com/BforBen"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">GitHub</span></a></li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-369"><a href="https://www.linkedin.com/profile/view?id=38596560"><span class="fa-stack fa-2x" aria-hidden="true"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-stack-1x social-icon"></i></span><span class="screen-reader-text">LinkedIn</span></a></li>
-            </ul>
-        </div>
-    </nav>
-        
-    <div class="widget-area" role="complementary">
-        <aside class="widget">
-            <div><a href="https://localgov.digital" title="Find out more about LocalGov Digital" class="lgd-overlay"><img src="{{ "/assets/localgovdigital.png" | prepend: site.baseurl }}" alt="LocalGov Digital logo" title="LocalGov Digital"></a></div>
-		</aside>
-		<aside class="widget">
-		    <h1 class="widget-title">Categories</h1>
-		    <ul>
-	            <li><a href="{{ "/blog/category/code" | prepend: site.baseurl }}">Code</a></li>
-	            <li><a href="{{ "/blog/category/local-gov" | prepend: site.baseurl }}" title="Read my posts about local government.">Local Gov</a></li>
-	            <li><a href="{{ "/blog/category/projects" | prepend: site.baseurl }}" >Projects</a></li>
-	            <li><a href="{{ "/blog/category/service" | prepend: site.baseurl }}" >Service</a></li>
-		    </ul>
-        </aside>
     </div>
-</div>
+</header>

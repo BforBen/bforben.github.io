@@ -4,14 +4,15 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="en-gb">
-  {% include head.html %}
-  <body class="home blog ignore-custom-background {{ layout.bodyClass }} {{ page.bodyClass }}">
-    {% include header.html %}
-    <div id="page" class="hfeed site">
-	    <div id="content" class="site-content">
-        {{ content }}
+{% include head.html %}
+<body class="{{ layout.bodyClass }} {{ page.bodyClass }}">
+  {% include header.html %}
+  <main id="main" class="container">
+    <div class="row justify-content-md-center">
+      <div class="col-lg-9">
+      {{ content }}
       </div>
-    {% include footer.html %}
     </div>
-  </body>
+  </main>
+</body>
 </html>

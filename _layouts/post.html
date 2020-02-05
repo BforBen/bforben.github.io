@@ -1,83 +1,17 @@
 ---
 layout: default
-bodyClass: single
 ---
+<article>
+  <header>
+    <h1>{{ page.title }}</h1>
+    <p class="post-date">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A %-d %B %Y" }}</time>
+    </p>
+  </header>
+{{ content }}
 
-<div id="primary" class="content-area">
-	<main id="main" class="site-main" role="main">
-    <div class="cover">
-      <div class="cover-background" role="img"></div>
-      <header class="cover-header">
-        <h2 class="cover-subtitle categories">
-          {% for category in page.categories %}
-          <a href="{{ site.baseurl }}/blog/category/{{ category | slugify }}" rel="category tag">{{ category | capitalize }}</a> 
-          {% endfor %}
-        </h2>
-        <h1 class="cover-title">{{ page.title }}</h1>
-        <div class="entry-meta">
-          <span class="posted-on">
-            <a class="author vcard url fn n" href="{{ "/about" | prepend: site.baseurl }}">
-              <img alt="Profile Picture for Ben" src="https://secure.gravatar.com/avatar/bae457ea71d62adc8033409bb14d2ee8?s=53&amp;d=blank&amp;r=pg" srcset="https://secure.gravatar.com/avatar/bae457ea71d62adc8033409bb14d2ee8?s=70&amp;d=blank&amp;r=pg 2x" class="avatar avatar-35 photo" height="35" width="35" originals="35" src-orig="https://secure.gravatar.com/avatar/bae457ea71d62adc8033409bb14d2ee8?s=35&amp;d=blank&amp;r=pg" scale="1.5">
-              <span class="name">Ben</span>
-            </a> on 
-            <a href="{{ page.url }}" rel="bookmark">
-              <time class="entry-date published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
-              {% if post.modified %}
-              <time class="updated" datetime="{{ page.modified | date_to_xmlschema }}">{{ page.modified | date: "%-d %b %Y" }}</time>
-              {% endif %}
-            </a>
-          </span>
-	{% if page.read_time %}
-          <span class="read-time"><span class="fa fa-clock-o" aria-hidden="true"></span> {% include read-time.html %}</span>
-        {% endif %}
-        </div>
-      </header>
-    </div>
+<div class="comments-container"><div id="disqus_thread"></div></div>
+    
+</article>
 
-    <article class="post type-post format-standard hentry">
-      <div class="entry-content">
-        {{ content }}
-      </div>
-      <footer class="entry-meta">
-          {% if page.tags %}
-		      <ul class="tags">
-		        {% for tag in page.tags %}
-	          <li><a href="{{ site.baseurl }}/blog/tag/{{ tag | slugify }}" title="View all posts in {{ tag }}">{{ tag }}</a></li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-	    </footer>
-    </article>
-    
-    <div class="comments-container"><div id="disqus_thread"></div></div>
-    
-    <nav class="navigation post-navigation" role="navigation">
-		  <h1 class="screen-reader-text">Post navigation</h1>
-		  <div class="nav-links cf">
-			  {% if page.previous %}
-			  <div class="nav-previous">
-			    <a href="{{ page.previous.url }}" rel="prev">
-			      <h2 class="subtitle">Previous post</h2>
-			      <h1 class="title">{{ page.previous.title }}</h1>
-		      </a>
-			  </div>
-			  {% endif %}
-			  {% if page.next %}
-			  <div class="nav-next">
-			    <a href="{{ page.next.url }}" rel="next">
-			      <div class="cover">
-		          <div class="cover-background"></div>
-		          <div class="cover-header">
-		            <h2 class="cover-subtitle">Next post</h2>
-		            <h1 class="cover-title">{{ page.next.title }}</h1>
-		          </div>
-	          </div>
-          </a>
-        </div>
-        {% endif %}
-      </div>
-	  </nav>
-	
-  </main>
-</div>
 {% include disqus.html %}

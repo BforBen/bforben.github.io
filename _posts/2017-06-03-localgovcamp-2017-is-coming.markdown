@@ -3,12 +3,13 @@ title: LocalGovCamp 2017 is coming
 date: 2017-06-03 11:10:00 +01:00
 categories:
 - local gov
+excerpt_separator: <!--more-->
 ---
 
 We're now deep into organising this year's [LocalGovCamp](http://localgovdigital.info/localgovcamp/) which is being held over 2 days on Friday 15th and Saturday 16th of September at Bristol City Hall.
  
 LocalGovCamp is a free event organised by volunteers who work in or around local government for people who care about making better public services. Often the focus of the event is around digital but that doesn't mean technology, social media or marketing. Everyone is welcome from councillors and senior leaders, to council or voluntary sector staff or to individuals who just want to help. This mix of people is one of the things that makes the event so interesting for me.
- 
+ <!--more-->
 ### Friday fringe
  
 The Friday fringe day is a bit more structured and is based around the [Local Government Digital Service Standard](http://localgovdigital.info/digital-service-standard). You’ll be able to choose from a number of practical workshops where experts from other councils, Government Digital Service, Department for Work and Pensions, Ministry of Justice, Public Service Transformation Academy and some private sector organisations are there to share their knowledge.

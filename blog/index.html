@@ -1,42 +1,33 @@
 ---
 title: Blog
-layout: page
+layout: default
+bodyClass: index
 ---
 
-<div id="posts" class="minimal">
-  {% for post in paginator.posts %}
-  <article class="post type-post format-standard hentry">
-    <header class="entry-header">
-  	  <h2 class="entry-subtitle categories">
-  	    {% for category in post.categories %}
-          <a href="{{ site.url }}{{ site.baseurl }}/blog/category/{{ category | slugify }}" rel="category tag">{{ category | capitalize }}</a> 
-        {% endfor %}  
-	    </h2>
-      <h1 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
-      <div class="entry-meta">
-        <span class="posted-on">
-          <a href="{{ post.url }}" rel="bookmark"><time class="entry-date published" datetime="2015-04-30T21:52:58+00:00">30 April  2015</time><time class="updated" datetime="2015-04-30T21:58:19+00:00">{{ post.date }}</time></a>
-        </span>
-      </div>
-    </header>
-    <div class="entry-summary">
+{% for post in paginator.posts %}
+<article>
+  <header>
+    <h1><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
+    <p class="post-date">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%A %-d %B %Y" }}</time>
+    </p>
+  </header>
+  <div>
     {{ post.excerpt }}
-    <a class="read-more" href="{{ post.url }}">Read more</a>
-    </div>
-  </article>
-  {% endfor %}
-</div>
+    <p><a class="btn btn-primary mt-4 mb-5 px-4" href="{{ post.url }}" role="button">Read more</a></p>
+  </div>
+</article>
+{% endfor %}
+  
 
 {% if paginator.total_pages > 1 %}
-<nav class="navigation posts-navigation" role="navigation">
-	<h2 class="screen-reader-text">Posts navigation</h2>
-	<div class="nav-links">
-    {% if paginator.previous_page %}
-    <div class="nav-next"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Newer posts</a></div>
-    {% endif %}
-    {% if paginator.next_page %}
-    <div class="nav-previous"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older posts</a></div>
-    {% endif %}	  
-	</div>
+<nav class="my-5 py-5" role="navigation">
+  <h2 class="sr-only">Posts navigation</h2>
+  {% if paginator.previous_page %}
+  <p><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-secondary btn-block">Newer posts</a></p>
+  {% endif %}
+  {% if paginator.next_page %}
+  <p><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-secondary btn-block">Older posts</a></p>
+  {% endif %}
 </nav>
 {% endif %}
