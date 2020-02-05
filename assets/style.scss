@@ -73,8 +73,14 @@ h1 a:hover,
     display: inline-block;
     vertical-align: middle;
 }
-.list-social a:hover img {
-    fill: red;
+.list-social a {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    fill: $body-color;
+}
+.list-social a:hover {
+    fill: $link-hover-color;
 }
 @media screen and (prefers-color-scheme: dark) {
     body { 
