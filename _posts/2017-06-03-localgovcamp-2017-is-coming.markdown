@@ -3,7 +3,7 @@ title: LocalGovCamp 2017 is coming
 date: 2017-06-03 11:10:00 +01:00
 categories:
 - local gov
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 
 We're now deep into organising this year's [LocalGovCamp](http://localgovdigital.info/localgovcamp/) which is being held over 2 days on Friday 15th and Saturday 16th of September at Bristol City Hall.
