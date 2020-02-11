@@ -39,6 +39,6 @@ Not bad for a first attempt! We all learnt more about the process and what the b
 
 ## We're planning more introductory Hangouts
 
-We're still learning the technique ourselves and if you'd like to join us, sign up to the [LocalGov Digital Slack #wardleymap channel](https://localgovdigital.slack.com/messages/wardleymaps/), tweet me [@_BforBen](https://twitter.com/_BforBen) or Richard [@CIOPortfolio](https://twitter.com/cioportfolio).
+We're still learning the technique ourselves and if you'd like to join us, sign up to the [LocalGov Digital Slack #wardleymap channel](https://localgovdigital.slack.com/messages/wardleymaps/), tweet me [@BforBen](https://twitter.com/BforBen) or Richard [@CIOPortfolio](https://twitter.com/cioportfolio).
 
 *[SLA]: Service Level Agreement

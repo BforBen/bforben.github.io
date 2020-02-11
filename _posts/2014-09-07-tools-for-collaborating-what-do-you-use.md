@@ -18,4 +18,4 @@ This coming Thursday we're hosting the first of what I hope will be many Makers 
 
 I'd be interested to hear what tools you use [or would like to] to collaborate &#8211; what are the successes, failures or issues; how did you get people to engage? One of the big hindrances is the technical and physical restrictions between councils that mean some can use services like Google Docs and Trello, whilst others find their browser isn't the right version or network security restrictions prevent access meaning staff have to resort to personal equipment and use in their personal time.
 
-Leave a comment below, <a href="https://twitter.com/_BforBen">tweet me (@_BforBen)</a> or <a href="https://twitter.com/LGMakers">@LGMakers</a>.
+Leave a comment below, <a href="https://twitter.com/BforBen">tweet me (@BforBen)</a> or <a href="https://twitter.com/LocalGovDigital">@LocalGovDigital</a>.

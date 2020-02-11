@@ -25,9 +25,10 @@ $h1-font-size: $font-size-base * 3 !default;
 @import "bootstrap/grid";
 @import "bootstrap/transitions";
 @import "bootstrap/media";
+@import "bootstrap/buttons";
+@import "bootstrap/tables";
 @import "bootstrap/utilities";
 @import "bootstrap/print";
-@import "bootstrap/buttons";
 
 .skip-navigation {
     @include sr-only;
