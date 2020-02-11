@@ -15,7 +15,7 @@ There is loads of data on each council in [LGInform](https://lginform.local.gov.
 
 Looking at the number of staff, the smallest is Forest of Dean with just 8 employees, whilst Hampshire County Council has reported 37,381! You can see more in the table below.
 
-<table class="table table-sm">
+<table class="table table-sm table-responsive">
 <caption>Headcounts at councils. Source: <a href="https://lginform.local.gov.uk/" title="Visit the LGInform homepage">LGInform</a></caption>
 <thead class="thead-light">
 <tr>
