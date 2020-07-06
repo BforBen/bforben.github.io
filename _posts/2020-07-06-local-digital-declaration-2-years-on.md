@@ -1,9 +1,9 @@
 ---
 title: Local Digital Declaration 2 years on
 date: 2020-07-06 20:06:00 +01:00
-imageurl: /content/2020/07/local-digital-declaration-2-years.png
 categories:
 - local gov
+imageurl: "/content/2020/07/local-digital-declaration-2-years.png"
 ---
 
 It's been 2 years since the launch of the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/) (wow, where has the time gone?!).
