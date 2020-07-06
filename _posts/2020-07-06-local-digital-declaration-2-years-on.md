@@ -5,8 +5,6 @@ categories:
 - local gov
 ---
 
-_(This post has also been published on the [MHCLG Digital blog](https://mhclgdigital.blog.gov.uk/2020/07/06/celebrating-two-years-of-the-local-digital-declaration/).)_
-
 It's been 2 years since the launch of the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/) (wow, where has the time gone?!).
 
 Looking back at [my blog from the launch](/blog/2018/07/launching-local-digital-declaration) I'd reflected on the many previous attempts to raise awareness of digital, and bring the sector together, that have struggled to turn conversations into practical delivery.
