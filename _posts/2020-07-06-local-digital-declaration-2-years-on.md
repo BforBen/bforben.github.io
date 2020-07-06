@@ -1,5 +1,5 @@
 ---
-title: 'Local Digital Declaration 2 years on'
+title: Local Digital Declaration 2 years on
 date: 2020-07-06 20:06:00 +01:00
 categories:
 - local gov
