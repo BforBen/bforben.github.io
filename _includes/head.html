@@ -19,7 +19,11 @@
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
     <meta property="og:description" content="{{ page.description }}">
+    {% if page.imageurl %}
+    <meta name="twitter:card" content="summary_large_image">
+    {% else %}
     <meta name="twitter:card" content="summary">
+    {% endif %}
     <meta name="twitter:site" content="@{{ site.twitter_username }}">
     <meta name="twitter:title" content="{{ page.title }}{% if page.title %} - {% endif %}{{ site.title }}">
     <meta name="twitter:description" content="{{ page.description }}">

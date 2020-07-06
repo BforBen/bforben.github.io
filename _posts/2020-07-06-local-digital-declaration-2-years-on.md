@@ -2,6 +2,7 @@
 title: Local Digital Declaration 2 years on
 date: 2020-07-06 20:06:00 +01:00
 imageurl: /content/2020/07/local-digital-declaration-2-years.png
+description: Reflections on 2 years of the Local Digital Declaration
 categories:
 - local gov
 ---
