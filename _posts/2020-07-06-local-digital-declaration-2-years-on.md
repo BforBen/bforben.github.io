@@ -43,4 +43,4 @@ We've also seen councils working together and sharing like never before from the
 
 I hope the experience will help to break the cycle and change how we design and deliver services. And we'll shortly have a set of [#LocalDigital products](https://localdigital.gov.uk/funded-projects/) in the mix ready and waiting!
 
-_This is a post about the 2-year anniversary of the Local Digital Declaration. Share your story with the hashtag [#LocalDigital2Years](https://twitter.com/search?q=%23LocalDigital2Years)._
+_This is a post about the 2-year anniversary of the Local Digital Declaration and it has also been published on the [MHCLG Digital blog](https://mhclgdigital.blog.gov.uk/2020/07/06/celebrating-two-years-of-the-local-digital-declaration/). Share your story with the hashtag [#LocalDigital2Years](https://twitter.com/search?q=%23LocalDigital2Years)._
