@@ -18,7 +18,7 @@ I found that cyber and digital have lots of similarities. They both could do wit
 
 Over the past few years we've seen some major incidents happen at councils with the cyber attacks at [Copeland](https://www.bbc.co.uk/news/uk-england-cumbria-45811509), [Redcar & Cleveland](https://www.bbc.co.uk/news/uk-england-tees-52521769) and [others](https://www.local.gov.uk/case-studies?keys=cyber+security&from=&to=).
 
-The recent rapid shift for many of us to exclusively work and socialise using computers has really brought the need to understand the security and resilience of the systems we're using to the fore. As Onyeke from [LOTI (London Office of Technology and Innovation)](https://loti.london) has described, when it goes wrong it can have [a lasting human impact](https://www.linkedin.com/pulse/why-im-longer-accepting-invitations-zoom-meetings-onyeka-onyekwelu/).
+The recent rapid shift for many of us to exclusively work and socialise using computers has really brought the need to understand the security and resilience of the systems we're using to the fore. As [Onyeka](https://twitter.com/OnyekaOnline) from [LOTI (London Office of Technology and Innovation)](https://loti.london) has described, when it goes wrong it can have [a lasting human impact](https://www.linkedin.com/pulse/why-im-longer-accepting-invitations-zoom-meetings-onyeka-onyekwelu/).
 
 Cyber isn't just a problem for IT to deal with. Everyone has a part to play, all day, every day. It may only take one person clicking on a link in an email or innocently plugging a USB drive into a laptop for some malware to get onto a system.
 
