@@ -1,6 +1,7 @@
 ---
 title: Cyber and digital - two sides of the same coin
 date: 2020-07-21 21:26:00 +01:00
+date: 2020-07-22 09:33:00 +01:00
 categories:
 - local gov
 - cyber
