@@ -1,7 +1,7 @@
 /*
   Access-Control-Allow-Origin: null
   X-Content-Type-Options: nosniff
-  X-Frame-Options: deny
+  X-Frame-Options: DENY
  
 https://:project.pages.dev/*
   X-Robots-Tag: noindex
