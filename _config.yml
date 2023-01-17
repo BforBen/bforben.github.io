@@ -41,6 +41,8 @@ exclude:
 - vendor
 - CNAME
 - _bootstrap.zsh
+include:
+- _headers
 kramdown:
   auto_ids: true,
   footnote_nr: 1
