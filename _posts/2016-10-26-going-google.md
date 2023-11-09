@@ -18,7 +18,7 @@ I've recently started work in the shared service for Royal Borough of Kingston, 
 
 For the first couple of weeks I was using a large Windows laptop. It was massive, heavy, slow, very slow and just seemed really clunky to use when all I was doing on it was opening Google Chrome. And the battery didn't last very long so I had to carry power leads round all the time. It was also encrypted and was heavily locked down and took about 5 minutes to get to a usable state. I hated it.
 
-Now I have my Chromebook (an [Acer Chromebook 14](http://us-store.acer.com/chromebook-14-cb3-431-c5fm) - all metal, with a full HD display) I have a super quick, light laptop that does everything I need. I can actually leave the power supply at home and work in some cases up to 2 days before needing to charge.
+Now I have my Chromebook (an [Acer Chromebook 14](https://us-store.acer.com/chromebook-14-cb3-431-c5fm) - all metal, with a full HD display) I have a super quick, light laptop that does everything I need. I can actually leave the power supply at home and work in some cases up to 2 days before needing to charge.
 
 For the odd occassion I need to access the corporate network I can use the Citrix Receiver app for Chrome OS to log in to "Modern Desktop" (our name for the Citrix VDI Windows 8.1 desktop). At the moment the only time I've needed to use Modern Desktop is to access the HR self-service system or print a document (which is rare).
 
@@ -54,7 +54,7 @@ I've come from a council where there was a plethora of network shares and ShareP
 
 ### Finding out who people are
 
-I've found it quite hard to work out who people are especially as I'm working for 2 organisations each with multiple office locations. Microsoft SharePoint at my last place provided a nice organisational structure diagram that showed where people sat and how they were related to me. We have [Cloudpages](http://cloudpagesforwork.com/) available for Google to provide a search function, but I find it it really slow and cumbersome to use and doesn't provide any hierarchy.
+I've found it quite hard to work out who people are especially as I'm working for 2 organisations each with multiple office locations. Microsoft SharePoint at my last place provided a nice organisational structure diagram that showed where people sat and how they were related to me. We have [Cloudpages](https://cloudpagesforwork.com/) available for Google to provide a search function, but I find it it really slow and cumbersome to use and doesn't provide any hierarchy.
 
 The Microsoft Outlook contact card popup was also good at quickly providing access to user details such as job title, department and current availability - Google doesn't really have an equivalent.
 

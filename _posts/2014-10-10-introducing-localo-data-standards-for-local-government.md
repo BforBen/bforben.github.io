@@ -22,7 +22,7 @@ To make these digital services we must be able to automate processes 'end-to-end
 
 This patchwork of systems makes it difficult for councils to share and collaborate on work when in many cases the functions they are fulfilling are the same or very similar. Council's also end up suffering from <a href="https://www.gov.uk/service-manual/making-software/choosing-technology#lock-in">vendor lock-in</a> in part due to systems being specifically integrated with other systems or through the council buying in to a whole vendor's ecosystem. If the council has development resources they also need specific knowledge of each line of business system.
 
-[LocalGov Digital Makers](http://localgovdigital.info/localgov-digital-makers/) started a project called **Localo** at the Makers Hack Day held as part of LocalGovCamp 2014. <a href="https://localgovdigital.github.io/localo">Localo</a> is a project to index and develop specifications for data used and provided by local government via APIs or web services &#8211; the aim being to create consistency against every data exchange and transaction.
+[LocalGov Digital Makers](https://localgovdigital.info/localgov-digital-makers/) started a project called **Localo** at the Makers Hack Day held as part of LocalGovCamp 2014. <a href="https://localgovdigital.github.io/localo">Localo</a> is a project to index and develop specifications for data used and provided by local government via APIs or web services &#8211; the aim being to create consistency against every data exchange and transaction.
 
 There are lots of benefits to adopting standard structures for data.
 

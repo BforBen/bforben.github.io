@@ -29,7 +29,7 @@ A responsive design allows all the site content to be available on all devices i
 The previous version of the site loaded lots of images, CSS files and JavaScript libraries some of which were not compressed or optimised resulting in the homepage requesting over 80 files and a total download size in the region of 1.3MB. Lots of requests and a large download size make pages slow to load on some desktop computers let alone mobile devices. The image below gives an idea of the look of the site prior to this work.
 
 ![A screenshot of the Guildford Borough Council homepage](/content/2014/03/guildfordbc-homepage-pre.png "Guildford Borough Council homepage")
--- Image source: [Goss Interactive](http://www.gossinteractive.com/news/goss-congratulates-guildford-borough-council-for-website-success) --
+-- Image source: [Goss Interactive](https://www.gossinteractive.com/news/goss-congratulates-guildford-borough-council-for-website-success) --
 
 The responsive design was taken care of by use of what was at the time <a href="http://getbootstrap.com/2.3.2/">Twitter's Bootstrap UI framework</a>. It has since been spun off and using their words become "one of the most popular front-end frameworks and open source projects in the world". At the time I wasn't aware of any other local government site making active use of the framework but it has since become popular with local government web teams and suppliers.
 

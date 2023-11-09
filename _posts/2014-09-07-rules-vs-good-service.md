@@ -13,7 +13,7 @@ redirect_from:
 
 Rules. They're everywhere. Are they a hindrance to "good" customer service? What does good service look like?
 
-Whilst working on the Localo project (a [LocalGov Digital Makers](http://localgovdigital.info/localgov-digital-makers/) pilot project &#8211; come to the [meet up next week](http://localgovdigital.info/news/localgov-digital-makers-meet-up/) to find out more) where we've looked at creating a standard data model and API for waste service has meant I've looked at lots of different council's forms that support their waste service offering and has led me to start to think about what good service is.
+Whilst working on the Localo project (a [LocalGov Digital Makers](https://localgovdigital.info/localgov-digital-makers/) pilot project &#8211; come to the [meet up next week](https://localgovdigital.info/news/localgov-digital-makers-meet-up/) to find out more) where we've looked at creating a standard data model and API for waste service has meant I've looked at lots of different council's forms that support their waste service offering and has led me to start to think about what good service is.
 
 I think at Guildford we have one of the most technically advanced missed bin reporting forms out there (I've previously discussed it [here]({% post_url 2014-01-05-missed-refuse-collections-online %})). We use the data from the line of business system to display information in real-time but also apply a number of rules to control the missed bin reports we receive.
 
@@ -25,7 +25,7 @@ Other councils don't seem to have real-time data to support their missed reporti
 
 ## Are rules just friction?
 
-Taking Dave Briggs' suggestion we should be looking to [get rid of friction](http://da.vebrig.gs/2014/09/03/get-rid-of-friction/).
+Taking Dave Briggs' suggestion we should be looking to [get rid of friction](https://da.vebrig.gs/2014/09/03/get-rid-of-friction/).
 
 In the missed bins case, we actually shouldn't have missed it in the first place. A missed bin is a service failure. However, accepting that it will happen from time-to-time, we need to allow customers to report the issue and resolve them in the most efficient and frictionless way possible. Is having a time window to report a missed bin friction? If the bin has been missed the customer may well still contact you in some way to report it even if <em>the computer says no</em> &#8211; possibly via a more expensive channel. Should we just allow reports at any time and not worry about it?
 

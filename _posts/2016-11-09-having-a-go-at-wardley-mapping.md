@@ -10,7 +10,7 @@ modified: 2016-11-09 10:03:00 +00:00
 
 Last Friday I participated in a Google Hangout organised by [Richard Barton](https://twitter.com/cioportfolio) to look at Wardley Mapping and bookings.
 
-For those of you that don't know [Wardley Mapping or Value-Chain Mapping](http://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html), it's a technique by [Simon Wardley](https://twitter.com/swardley) that I think has a lot potential to help local government understand what it does and how it's delivered. There are a couple of videos of Simon talking about mapping at OSCON which explain it well.
+For those of you that don't know [Wardley Mapping or Value-Chain Mapping](https://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html), it's a technique by [Simon Wardley](https://twitter.com/swardley) that I think has a lot potential to help local government understand what it does and how it's delivered. There are a couple of videos of Simon talking about mapping at OSCON which explain it well.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NnFeIt-uaEc?list=PLDGsBgVz2W87cAfk2y2SSods5kvlykpLi" frameborder="0" allowfullscreen></iframe>
 

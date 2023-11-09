@@ -13,7 +13,7 @@ redirect_from:
 - "/blog/2013/02/using-bootstrap-typeahead-with-google-custom-search-autocomplete/"
 ---
 
-We recently implemented [Google Site Search](http://www.google.com/enterprise/search/products/gss.html) on the Guildford BC website. The site already uses [Bootstrap](http://getbootstrap.com/) for various UI elements so it made sense to use the [Typeahead](http://twitter.github.com/bootstrap/javascript.html#typeahead) component to provide autocomplete.
+We recently implemented [Google Site Search](https://www.google.com/enterprise/search/products/gss.html) on the Guildford BC website. The site already uses [Bootstrap](https://getbootstrap.com/) for various UI elements so it made sense to use the [Typeahead](https://twitter.github.com/bootstrap/javascript.html#typeahead) component to provide autocomplete.
 
 First create a form. The name needs to match the variable your Google Custom Search Results control is expecting.
 
