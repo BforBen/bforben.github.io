@@ -2,7 +2,8 @@
   Access-Control-Allow-Origin: null
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
-  Content-Security-Policy: default-src 'self'; font-src fonts.gstatic.com; style-src 'self' fonts.googleapis.com; script-src: 'sha256-16aa8b0ce943fa5c38fe8096fee34b1772038a165307c10462a6869abe9b9481' https://*.googletagmanager.com; img-src: https://*.google-analytics.com https://*.googletagmanager.com; connect-src: https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com
+  Content-Security-Policy: default-src 'self'; font-src fonts.gstatic.com; style-src 'self' fonts.googleapis.com; script-src 'sha256-rFvaHryBqJYIhwP13VAnUIV3aYbRugzU4MsolEQjnPY=' https://*.googletagmanager.com; img-src 'self' https://secure.gravatar.com https://*.google-analytics.com https://*.googletagmanager.com; connect-src https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com
+
 https://:project.pages.dev/*
   X-Robots-Tag: noindex
   Strict-Transport-Security: max-age=3600
