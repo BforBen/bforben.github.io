@@ -2,7 +2,7 @@
   Access-Control-Allow-Origin: null
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
-  Content-Security-Policy: base-uri 'self'; default-src 'none'; font-src fonts.gstatic.com; style-src 'self' 'sha256-3QbC6ukBrWKUr9CA9uuyPEBix8bCjn5jMeDC0cfkR7o=' fonts.googleapis.com; script-src 'unsafe-inline' https: 'sha256-rFvaHryBqJYIhwP13VAnUIV3aYbRugzU4MsolEQjnPY=' 'sha256-6EnXVoPygqjDpb93D6AVxsgDi6AyzbuWbZIE9isCw5w=' 'strict-dynamic';  script-src-elem https://www.googletagmanager.com https://bforben.disqus.com; img-src 'self' https://secure.gravatar.com https://*.google-analytics.com https://*.googletagmanager.com; connect-src https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; frame-src https://disqus.com/ https://www.youtube-nocookie.com/; manifest-src 'self'; require-trusted-types-for 'script'
+  Content-Security-Policy: base-uri 'self'; default-src 'none'; font-src fonts.gstatic.com; style-src 'self' 'sha256-3QbC6ukBrWKUr9CA9uuyPEBix8bCjn5jMeDC0cfkR7o=' fonts.googleapis.com; script-src 'unsafe-inline' https: 'sha256-rFvaHryBqJYIhwP13VAnUIV3aYbRugzU4MsolEQjnPY=' 'sha256-6EnXVoPygqjDpb93D6AVxsgDi6AyzbuWbZIE9isCw5w=' 'strict-dynamic';  script-src-elem https://www.googletagmanager.com https://bforben.disqus.com 'sha256-rFvaHryBqJYIhwP13VAnUIV3aYbRugzU4MsolEQjnPY=' ; img-src 'self' https://secure.gravatar.com https://*.google-analytics.com https://*.googletagmanager.com; connect-src https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; frame-src https://disqus.com/ https://www.youtube-nocookie.com/; manifest-src 'self'; require-trusted-types-for 'script'
 
 https://:project.pages.dev/*
   X-Robots-Tag: noindex
