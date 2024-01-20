@@ -31,7 +31,7 @@ Even after all these years, I think there is a lot to learn from this talk by To
     <iframe src="https://www.youtube-nocookie.com/embed/VjE_zj-7A7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-Do we be need to be bolder and change institutions? Change local government?
+I think we be need to be bolder and think about the more fundamental changes we should be making to local government.
 
 There are hundreds of services listed in the [Local Government Service List](https://standards.esd.org.uk/?uri=list%2Fservices) (part of the [Local Government Business Model](https://standards.esd.org.uk/?tab=lgbm)), some of which are effectively controlled or constrained by national policies or legislation, and only delivered or administered locally by councils. There is no local democratic control over those services, it just made sense for the service to be delivered locally when it was a paper-based process.
 
